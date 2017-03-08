@@ -1,0 +1,14 @@
+c:\users\master\documents\visual studio 2015\Projects\GazeAnalysis\GazeAnalysis\bin\Debug\GazeAnalysis.exe.config
+c:\users\master\documents\visual studio 2015\Projects\GazeAnalysis\GazeAnalysis\bin\Debug\GazeAnalysis.exe
+c:\users\master\documents\visual studio 2015\Projects\GazeAnalysis\GazeAnalysis\bin\Debug\GazeAnalysis.pdb
+c:\users\master\documents\visual studio 2015\Projects\GazeAnalysis\GazeAnalysis\obj\Debug\GazeAnalysis.csprojResolveAssemblyReference.cache
+c:\users\master\documents\visual studio 2015\Projects\GazeAnalysis\GazeAnalysis\obj\Debug\MainWindow.g.cs
+c:\users\master\documents\visual studio 2015\Projects\GazeAnalysis\GazeAnalysis\obj\Debug\App.g.cs
+c:\users\master\documents\visual studio 2015\Projects\GazeAnalysis\GazeAnalysis\obj\Debug\GazeAnalysis_MarkupCompile.cache
+c:\users\master\documents\visual studio 2015\Projects\GazeAnalysis\GazeAnalysis\obj\Debug\GazeAnalysis_MarkupCompile.lref
+c:\users\master\documents\visual studio 2015\Projects\GazeAnalysis\GazeAnalysis\obj\Debug\MainWindow.baml
+c:\users\master\documents\visual studio 2015\Projects\GazeAnalysis\GazeAnalysis\obj\Debug\GazeAnalysis.g.resources
+c:\users\master\documents\visual studio 2015\Projects\GazeAnalysis\GazeAnalysis\obj\Debug\GazeAnalysis.Properties.Resources.resources
+c:\users\master\documents\visual studio 2015\Projects\GazeAnalysis\GazeAnalysis\obj\Debug\GazeAnalysis.csproj.GenerateResource.Cache
+c:\users\master\documents\visual studio 2015\Projects\GazeAnalysis\GazeAnalysis\obj\Debug\GazeAnalysis.exe
+c:\users\master\documents\visual studio 2015\Projects\GazeAnalysis\GazeAnalysis\obj\Debug\GazeAnalysis.pdb

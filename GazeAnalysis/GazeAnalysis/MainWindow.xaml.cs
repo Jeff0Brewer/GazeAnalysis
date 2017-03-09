@@ -88,6 +88,14 @@ namespace GazeAnalysis
                 Canvas.SetLeft(dot, points[i].X - dot.Width / 2);
                 Canvas.SetTop(dot, points[i].Y - dot.Height / 2);
                 myCanvas.Children.Add(dot);
+                Ellipse shade = new Ellipse();
+                shade.Height = 50;
+                shade.Width = 50;
+                shade.Opacity = .05;
+                shade.Fill = brush;
+                Canvas.SetLeft(shade, points[i].X - shade.Width / 2);
+                Canvas.SetTop(shade, points[i].Y - shade.Height / 2);
+                myCanvas.Children.Add(shade);
                 if (i > 0) {
                     Line seg = new Line();
                     seg.X1 = points[i].X;

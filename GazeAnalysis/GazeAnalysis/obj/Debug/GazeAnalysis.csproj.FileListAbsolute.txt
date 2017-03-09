@@ -12,3 +12,17 @@ c:\users\master\documents\visual studio 2015\Projects\GazeAnalysis\GazeAnalysis\
 c:\users\master\documents\visual studio 2015\Projects\GazeAnalysis\GazeAnalysis\obj\Debug\GazeAnalysis.csproj.GenerateResource.Cache
 c:\users\master\documents\visual studio 2015\Projects\GazeAnalysis\GazeAnalysis\obj\Debug\GazeAnalysis.exe
 c:\users\master\documents\visual studio 2015\Projects\GazeAnalysis\GazeAnalysis\obj\Debug\GazeAnalysis.pdb
+C:\Users\master\Documents\GitHub\GazeAnalysis\GazeAnalysis\GazeAnalysis\bin\Debug\GazeAnalysis.exe.config
+C:\Users\master\Documents\GitHub\GazeAnalysis\GazeAnalysis\GazeAnalysis\obj\Debug\GazeAnalysis.exe
+C:\Users\master\Documents\GitHub\GazeAnalysis\GazeAnalysis\GazeAnalysis\obj\Debug\GazeAnalysis.pdb
+C:\Users\master\Documents\GitHub\GazeAnalysis\GazeAnalysis\GazeAnalysis\bin\Debug\GazeAnalysis.exe
+C:\Users\master\Documents\GitHub\GazeAnalysis\GazeAnalysis\GazeAnalysis\bin\Debug\GazeAnalysis.pdb
+C:\Users\master\Documents\GitHub\GazeAnalysis\GazeAnalysis\GazeAnalysis\obj\Debug\GazeAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\master\Documents\GitHub\GazeAnalysis\GazeAnalysis\GazeAnalysis\obj\Debug\MainWindow.g.cs
+C:\Users\master\Documents\GitHub\GazeAnalysis\GazeAnalysis\GazeAnalysis\obj\Debug\App.g.cs
+C:\Users\master\Documents\GitHub\GazeAnalysis\GazeAnalysis\GazeAnalysis\obj\Debug\GazeAnalysis_MarkupCompile.cache
+C:\Users\master\Documents\GitHub\GazeAnalysis\GazeAnalysis\GazeAnalysis\obj\Debug\GazeAnalysis_MarkupCompile.lref
+C:\Users\master\Documents\GitHub\GazeAnalysis\GazeAnalysis\GazeAnalysis\obj\Debug\MainWindow.baml
+C:\Users\master\Documents\GitHub\GazeAnalysis\GazeAnalysis\GazeAnalysis\obj\Debug\GazeAnalysis.g.resources
+C:\Users\master\Documents\GitHub\GazeAnalysis\GazeAnalysis\GazeAnalysis\obj\Debug\GazeAnalysis.Properties.Resources.resources
+C:\Users\master\Documents\GitHub\GazeAnalysis\GazeAnalysis\GazeAnalysis\obj\Debug\GazeAnalysis.csproj.GenerateResource.Cache

@@ -95,6 +95,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="A_03-16_11-11.txt" />
+    <Resource Include="A_03-16_11-16.txt" />
+    <Resource Include="A_03-16_11-21.txt" />
+    <Resource Include="A_03-16_11-26.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

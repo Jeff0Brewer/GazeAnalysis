@@ -1,0 +1,3442 @@
+Gaze point at (680.66, 29.98) @ 11:11:02.41 on A
+
+Gaze point at (648.27, 37.55) @ 11:11:02.54 on A
+
+Gaze point at (288.34, 90.40) @ 11:11:02.71 on A
+
+Gaze point at (286.94, 106.25) @ 11:11:02.86 on A
+
+Gaze point at (284.73, 114.84) @ 11:11:03.01 on A
+
+Gaze point at (512.71, 145.92) @ 11:11:03.16 on A
+
+Gaze point at (397.80, 262.79) @ 11:11:03.32 on A
+
+Gaze point at (350.25, 288.24) @ 11:11:03.47 on A
+
+Gaze point at (296.46, 294.72) @ 11:11:03.63 on A
+
+Gaze point at (303.08, 276.67) @ 11:11:03.79 on A
+
+Gaze point at (852.72, 269.90) @ 11:11:03.95 on A
+
+Gaze point at (885.63, 210.03) @ 11:11:04.12 on A
+
+Gaze point at (922.64, 168.86) @ 11:11:04.28 on A
+
+Gaze point at (1248.96, 156.60) @ 11:11:04.45 on A
+
+Gaze point at (1252.97, 159.33) @ 11:11:04.60 on A
+
+Gaze point at (1279.42, 225.11) @ 11:11:04.77 on A
+
+Gaze point at (1297.30, 260.60) @ 11:11:04.94 on A
+
+Gaze point at (1312.06, 250.08) @ 11:11:05.09 on A
+
+Gaze point at (1316.20, 247.12) @ 11:11:05.24 on A
+
+Gaze point at (1290.58, 167.26) @ 11:11:05.40 on A
+
+Gaze point at (1289.04, 153.04) @ 11:11:05.56 on A
+
+Gaze point at (1285.07, 148.44) @ 11:11:05.71 on A
+
+Gaze point at (1298.51, 138.55) @ 11:11:05.87 on A
+
+Gaze point at (1310.68, 147.09) @ 11:11:06.04 on A
+
+Gaze point at (1316.87, 151.09) @ 11:11:06.20 on A
+
+Gaze point at (1281.92, 147.05) @ 11:11:06.37 on A
+
+Gaze point at (1277.72, 154.00) @ 11:11:06.53 on A
+
+Gaze point at (1274.62, 155.93) @ 11:11:06.68 on A
+
+Gaze point at (1274.05, 155.32) @ 11:11:06.85 on A
+
+Gaze point at (447.81, 154.28) @ 11:11:07.01 on A
+
+Gaze point at (401.33, 145.35) @ 11:11:07.18 on A
+
+Gaze point at (319.91, 104.60) @ 11:11:07.35 on A
+
+Gaze point at (270.45, 161.92) @ 11:11:07.50 on A
+
+Gaze point at (269.12, 159.82) @ 11:11:07.67 on A
+
+Gaze point at (279.19, 163.65) @ 11:11:07.82 on A
+
+Gaze point at (282.00, 255.89) @ 11:11:07.99 on A
+
+Gaze point at (317.61, 262.50) @ 11:11:08.16 on A
+
+Gaze point at (313.64, 257.68) @ 11:11:08.32 on A
+
+Gaze point at (324.38, 250.44) @ 11:11:08.49 on A
+
+Gaze point at (316.09, 243.58) @ 11:11:08.66 on A
+
+Gaze point at (556.47, 261.22) @ 11:11:08.81 on A
+
+Gaze point at (744.85, 286.94) @ 11:11:08.96 on A
+
+Gaze point at (394.54, 229.72) @ 11:11:09.12 on A
+
+Gaze point at (388.27, 222.78) @ 11:11:09.29 on A
+
+Gaze point at (97.74, 156.92) @ 11:11:09.46 on A
+
+Gaze point at (248.26, 237.30) @ 11:11:09.61 on A
+
+Gaze point at (389.17, 111.72) @ 11:11:09.78 on A
+
+Gaze point at (358.03, 131.40) @ 11:11:09.95 on A
+
+Gaze point at (179.89, 291.79) @ 11:11:10.11 on A
+
+Gaze point at (181.80, 291.21) @ 11:11:10.28 on A
+
+Gaze point at (182.28, 277.18) @ 11:11:10.44 on A
+
+Gaze point at (187.68, 287.97) @ 11:11:10.60 on A
+
+Gaze point at (184.04, 280.50) @ 11:11:10.77 on A
+
+Gaze point at (179.68, 268.94) @ 11:11:10.92 on A
+
+Gaze point at (179.20, 270.31) @ 11:11:11.09 on A
+
+Gaze point at (217.50, 302.17) @ 11:11:11.25 on A
+
+Gaze point at (218.89, 292.50) @ 11:11:11.41 on A
+
+Gaze point at (223.82, 337.76) @ 11:11:11.58 on A
+
+Gaze point at (234.64, 381.06) @ 11:11:11.74 on A
+
+Gaze point at (232.39, 369.24) @ 11:11:11.91 on A
+
+Gaze point at (272.04, 379.47) @ 11:11:12.08 on A
+
+Gaze point at (264.74, 370.41) @ 11:11:12.24 on A
+
+Gaze point at (258.43, 347.68) @ 11:11:12.40 on A
+
+Gaze point at (150.73, 388.58) @ 11:11:12.55 on A
+
+Gaze point at (114.05, 336.81) @ 11:11:12.72 on A
+
+Gaze point at (100.87, 376.12) @ 11:11:12.89 on A
+
+Gaze point at (107.22, 458.52) @ 11:11:13.05 on A
+
+Gaze point at (156.45, 476.53) @ 11:11:13.22 on A
+
+Gaze point at (160.63, 526.61) @ 11:11:13.39 on A
+
+Gaze point at (164.42, 527.81) @ 11:11:13.54 on A
+
+Gaze point at (114.20, 655.87) @ 11:11:13.70 on A
+
+Gaze point at (115.21, 667.55) @ 11:11:13.86 on A
+
+Gaze point at (116.55, 668.03) @ 11:11:14.03 on A
+
+Gaze point at (498.15, 476.61) @ 11:11:14.20 on A
+
+Gaze point at (562.76, 448.86) @ 11:11:14.36 on A
+
+Gaze point at (560.93, 448.97) @ 11:11:14.52 on A
+
+Gaze point at (555.11, 469.06) @ 11:11:14.69 on A
+
+Gaze point at (563.67, 459.02) @ 11:11:14.84 on A
+
+Gaze point at (744.75, 400.07) @ 11:11:15.01 on A
+
+Gaze point at (745.34, 412.42) @ 11:11:15.15 on A
+
+Gaze point at (402.27, 464.65) @ 11:11:15.32 on A
+
+Gaze point at (403.43, 462.49) @ 11:11:15.48 on A
+
+Gaze point at (419.84, 470.79) @ 11:11:15.65 on A
+
+Gaze point at (437.22, 484.10) @ 11:11:15.81 on A
+
+Gaze point at (329.37, 283.80) @ 11:11:15.97 on A
+
+Gaze point at (328.46, 283.73) @ 11:11:16.14 on A
+
+Gaze point at (216.43, 200.59) @ 11:11:16.31 on A
+
+Gaze point at (220.52, 196.90) @ 11:11:16.47 on A
+
+Gaze point at (286.66, 183.77) @ 11:11:16.64 on A
+
+Gaze point at (845.84, 212.40) @ 11:11:16.81 on A
+
+Gaze point at (809.73, 167.87) @ 11:11:16.96 on A
+
+Gaze point at (797.74, 149.09) @ 11:11:17.12 on A
+
+Gaze point at (787.95, 85.88) @ 11:11:17.28 on A
+
+Gaze point at (895.64, 529.82) @ 11:11:17.45 on A
+
+Gaze point at (927.29, 579.60) @ 11:11:17.62 on A
+
+Gaze point at (927.67, 609.41) @ 11:11:17.77 on A
+
+Gaze point at (864.47, 615.41) @ 11:11:17.94 on A
+
+Gaze point at (263.04, 583.65) @ 11:11:18.10 on A
+
+Gaze point at (169.90, 584.47) @ 11:11:18.27 on A
+
+Gaze point at (146.93, 581.79) @ 11:11:18.44 on A
+
+Gaze point at (439.72, 552.17) @ 11:11:18.60 on A
+
+Gaze point at (478.03, 631.49) @ 11:11:18.77 on A
+
+Gaze point at (521.50, 691.34) @ 11:11:18.94 on A
+
+Gaze point at (556.05, 587.32) @ 11:11:19.10 on A
+
+Gaze point at (554.09, 582.18) @ 11:11:19.26 on A
+
+Gaze point at (462.57, 362.95) @ 11:11:19.42 on A
+
+Gaze point at (484.46, 302.20) @ 11:11:19.58 on A
+
+Gaze point at (500.64, 284.96) @ 11:11:19.74 on A
+
+Gaze point at (453.34, 145.17) @ 11:11:19.90 on A
+
+Gaze point at (460.73, 387.35) @ 11:11:20.07 on A
+
+Gaze point at (463.65, 452.66) @ 11:11:20.24 on A
+
+Gaze point at (408.36, 520.89) @ 11:11:20.39 on A
+
+Gaze point at (390.75, 594.38) @ 11:11:20.56 on A
+
+Gaze point at (373.39, 629.44) @ 11:11:20.71 on A
+
+Gaze point at (420.30, 556.94) @ 11:11:20.88 on A
+
+Gaze point at (428.18, 548.94) @ 11:11:21.05 on A
+
+Gaze point at (454.43, 518.32) @ 11:11:21.21 on A
+
+Gaze point at (307.32, 215.75) @ 11:11:21.38 on A
+
+Gaze point at (305.01, 194.50) @ 11:11:21.55 on A
+
+Gaze point at (210.35, 120.90) @ 11:11:21.70 on A
+
+Gaze point at (201.29, 137.90) @ 11:11:21.87 on A
+
+Gaze point at (92.19, 220.95) @ 11:11:22.03 on A
+
+Gaze point at (385.26, 175.10) @ 11:11:22.20 on A
+
+Gaze point at (720.24, 109.62) @ 11:11:22.36 on A
+
+Gaze point at (789.58, 109.50) @ 11:11:22.52 on A
+
+Gaze point at (1291.14, 194.58) @ 11:11:22.69 on A
+
+Gaze point at (1291.43, 204.16) @ 11:11:22.86 on A
+
+Gaze point at (1285.68, 271.75) @ 11:11:23.01 on A
+
+Gaze point at (1225.27, 300.28) @ 11:11:23.18 on A
+
+Gaze point at (336.06, 162.18) @ 11:11:23.34 on A
+
+Gaze point at (338.13, 157.07) @ 11:11:23.51 on A
+
+Gaze point at (403.74, 257.64) @ 11:11:23.68 on A
+
+Gaze point at (452.09, 346.38) @ 11:11:23.83 on A
+
+Gaze point at (452.64, 337.86) @ 11:11:24.00 on A
+
+Gaze point at (409.27, 380.67) @ 11:11:24.17 on A
+
+Gaze point at (364.54, 449.80) @ 11:11:24.33 on A
+
+Gaze point at (359.67, 452.66) @ 11:11:24.50 on A
+
+Gaze point at (377.61, 453.26) @ 11:11:24.67 on A
+
+Gaze point at (457.50, 410.28) @ 11:11:24.82 on A
+
+Gaze point at (482.58, 382.46) @ 11:11:24.99 on A
+
+Gaze point at (472.40, 341.33) @ 11:11:25.14 on A
+
+Gaze point at (426.06, 118.39) @ 11:11:25.31 on A
+
+Gaze point at (797.01, 142.76) @ 11:11:25.44 on A
+
+Gaze point at (759.88, 123.25) @ 11:11:25.61 on A
+
+Gaze point at (809.69, 20.41) @ 11:11:25.78 on A
+
+Gaze point at (724.89, 308.29) @ 11:11:25.93 on A
+
+Gaze point at (742.87, 336.57) @ 11:11:26.10 on A
+
+Gaze point at (737.60, 351.05) @ 11:11:26.25 on A
+
+Gaze point at (736.32, 363.61) @ 11:11:26.41 on A
+
+Gaze point at (739.20, 350.49) @ 11:11:26.58 on A
+
+Gaze point at (683.07, 342.12) @ 11:11:26.73 on A
+
+Gaze point at (257.35, 227.44) @ 11:11:26.90 on A
+
+Gaze point at (270.98, 117.89) @ 11:11:27.05 on A
+
+Gaze point at (265.59, 90.14) @ 11:11:27.22 on A
+
+Gaze point at (192.60, 72.99) @ 11:11:27.39 on A
+
+Gaze point at (436.73, 100.16) @ 11:11:27.54 on A
+
+Gaze point at (442.41, 107.25) @ 11:11:27.71 on A
+
+Gaze point at (385.13, 52.27) @ 11:11:27.88 on A
+
+Gaze point at (382.41, 120.75) @ 11:11:28.03 on A
+
+Gaze point at (85.99, 198.72) @ 11:11:28.19 on A
+
+Gaze point at (93.95, 215.81) @ 11:11:28.35 on A
+
+Gaze point at (99.22, 223.35) @ 11:11:28.51 on A
+
+Gaze point at (97.82, 218.91) @ 11:11:28.67 on A
+
+Gaze point at (73.08, 115.79) @ 11:11:28.84 on A
+
+Gaze point at (79.23, 121.98) @ 11:11:29.00 on A
+
+Gaze point at (159.51, 248.08) @ 11:11:29.16 on A
+
+Gaze point at (161.99, 240.34) @ 11:11:29.33 on A
+
+Gaze point at (81.38, 451.15) @ 11:11:29.48 on A
+
+Gaze point at (66.02, 487.05) @ 11:11:29.65 on A
+
+Gaze point at (115.20, 534.96) @ 11:11:29.82 on A
+
+Gaze point at (111.74, 538.20) @ 11:11:29.98 on A
+
+Gaze point at (143.58, 279.44) @ 11:11:30.15 on A
+
+Gaze point at (148.43, 235.63) @ 11:11:30.31 on A
+
+Gaze point at (150.88, 238.62) @ 11:11:30.47 on A
+
+Gaze point at (259.54, 376.26) @ 11:11:30.63 on A
+
+Gaze point at (285.77, 403.10) @ 11:11:30.78 on A
+
+Gaze point at (287.26, 406.25) @ 11:11:30.94 on A
+
+Gaze point at (402.36, 503.53) @ 11:11:31.09 on A
+
+Gaze point at (400.65, 505.36) @ 11:11:31.26 on A
+
+Gaze point at (481.26, 563.13) @ 11:11:31.43 on A
+
+Gaze point at (499.35, 667.15) @ 11:11:31.58 on A
+
+Gaze point at (442.66, 560.32) @ 11:11:31.75 on A
+
+Gaze point at (436.05, 540.16) @ 11:11:31.92 on A
+
+Gaze point at (391.28, 508.13) @ 11:11:32.07 on A
+
+Gaze point at (487.60, 252.59) @ 11:11:32.23 on A
+
+Gaze point at (484.76, 245.44) @ 11:11:32.39 on A
+
+Gaze point at (351.96, 272.48) @ 11:11:32.56 on A
+
+Gaze point at (306.32, 284.85) @ 11:11:32.71 on A
+
+Gaze point at (302.61, 279.98) @ 11:11:32.88 on A
+
+Gaze point at (304.56, 283.33) @ 11:11:33.05 on A
+
+Gaze point at (354.02, 195.84) @ 11:11:33.21 on A
+
+Gaze point at (358.41, 181.16) @ 11:11:33.38 on A
+
+Gaze point at (328.12, 96.20) @ 11:11:33.55 on A
+
+Gaze point at (331.13, 84.29) @ 11:11:33.71 on A
+
+Gaze point at (352.54, 65.55) @ 11:11:33.88 on A
+
+Gaze point at (448.01, 106.11) @ 11:11:34.03 on A
+
+Gaze point at (469.92, 165.34) @ 11:11:34.19 on A
+
+Gaze point at (478.97, 196.83) @ 11:11:34.36 on A
+
+Gaze point at (467.73, 187.35) @ 11:11:34.53 on A
+
+Gaze point at (461.07, 184.60) @ 11:11:34.69 on A
+
+Gaze point at (465.24, 184.90) @ 11:11:34.85 on A
+
+Gaze point at (489.19, 293.15) @ 11:11:35.01 on A
+
+Gaze point at (488.78, 294.77) @ 11:11:35.18 on A
+
+Gaze point at (468.41, 422.48) @ 11:11:35.35 on A
+
+Gaze point at (465.35, 421.66) @ 11:11:35.51 on A
+
+Gaze point at (41.81, 452.99) @ 11:11:35.67 on A
+
+Gaze point at (12.90, 301.21) @ 11:11:35.84 on A
+
+Gaze point at (25.70, 238.55) @ 11:11:35.99 on A
+
+Gaze point at (39.01, 140.60) @ 11:11:36.16 on A
+
+Gaze point at (334.70, 387.44) @ 11:11:36.32 on A
+
+Gaze point at (333.30, 387.66) @ 11:11:36.48 on A
+
+Gaze point at (335.49, 391.52) @ 11:11:36.65 on A
+
+Gaze point at (453.19, 530.05) @ 11:11:36.81 on A
+
+Gaze point at (451.86, 528.00) @ 11:11:36.97 on A
+
+Gaze point at (505.77, 625.10) @ 11:11:37.13 on A
+
+Gaze point at (504.07, 659.13) @ 11:11:37.30 on A
+
+Gaze point at (490.02, 682.53) @ 11:11:37.47 on A
+
+Gaze point at (482.92, 693.71) @ 11:11:37.64 on A
+
+Gaze point at (410.04, 484.23) @ 11:11:37.80 on A
+
+Gaze point at (408.46, 486.62) @ 11:11:37.97 on A
+
+Gaze point at (402.78, 488.96) @ 11:11:38.13 on A
+
+Gaze point at (388.91, 459.25) @ 11:11:38.30 on A
+
+Gaze point at (386.59, 458.98) @ 11:11:38.47 on A
+
+Gaze point at (386.82, 454.78) @ 11:11:38.63 on A
+
+Gaze point at (309.04, 518.99) @ 11:11:38.80 on A
+
+Gaze point at (310.39, 523.45) @ 11:11:38.97 on A
+
+Gaze point at (294.96, 527.19) @ 11:11:39.13 on A
+
+Gaze point at (180.31, 622.35) @ 11:11:39.30 on A
+
+Gaze point at (61.81, 525.77) @ 11:11:39.45 on A
+
+Gaze point at (64.87, 522.66) @ 11:11:39.62 on A
+
+Gaze point at (40.32, 481.17) @ 11:11:39.79 on A
+
+Gaze point at (62.60, 327.22) @ 11:11:39.95 on A
+
+Gaze point at (59.99, 266.17) @ 11:11:40.12 on A
+
+Gaze point at (58.92, 240.94) @ 11:11:40.29 on A
+
+Gaze point at (91.82, 166.49) @ 11:11:40.45 on A
+
+Gaze point at (114.99, 80.98) @ 11:11:40.62 on A
+
+Gaze point at (74.19, 74.96) @ 11:11:40.79 on A
+
+Gaze point at (75.14, 67.92) @ 11:11:40.95 on A
+
+Gaze point at (96.90, 49.84) @ 11:11:41.11 on A
+
+Gaze point at (93.75, 49.03) @ 11:11:41.27 on A
+
+Gaze point at (239.99, 75.33) @ 11:11:41.44 on A
+
+Gaze point at (267.81, 142.43) @ 11:11:41.61 on A
+
+Gaze point at (277.57, 159.51) @ 11:11:41.77 on A
+
+Gaze point at (231.26, 213.13) @ 11:11:41.94 on A
+
+Gaze point at (237.61, 276.52) @ 11:11:42.11 on A
+
+Gaze point at (238.47, 394.74) @ 11:11:42.27 on A
+
+Gaze point at (223.43, 378.83) @ 11:11:42.44 on A
+
+Gaze point at (217.70, 373.28) @ 11:11:42.60 on A
+
+Gaze point at (325.41, 452.40) @ 11:11:42.75 on A
+
+Gaze point at (318.47, 458.64) @ 11:11:42.91 on A
+
+Gaze point at (230.58, 619.80) @ 11:11:43.07 on A
+
+Gaze point at (183.82, 598.84) @ 11:11:43.24 on A
+
+Gaze point at (182.79, 551.46) @ 11:11:43.41 on A
+
+Gaze point at (368.53, 566.81) @ 11:11:43.55 on A
+
+Gaze point at (507.78, 582.57) @ 11:11:43.72 on A
+
+Gaze point at (503.63, 581.73) @ 11:11:43.87 on A
+
+Gaze point at (504.15, 580.87) @ 11:11:44.04 on A
+
+Gaze point at (496.02, 373.21) @ 11:11:44.21 on A
+
+Gaze point at (487.58, 338.35) @ 11:11:44.36 on A
+
+Gaze point at (490.67, 363.32) @ 11:11:44.53 on A
+
+Gaze point at (479.52, 279.98) @ 11:11:44.69 on A
+
+Gaze point at (474.74, 230.32) @ 11:11:44.84 on A
+
+Gaze point at (465.08, 189.93) @ 11:11:44.99 on A
+
+Gaze point at (440.58, 138.91) @ 11:11:45.16 on A
+
+Gaze point at (434.14, 133.60) @ 11:11:45.32 on A
+
+Gaze point at (505.74, 128.54) @ 11:11:45.48 on A
+
+Gaze point at (342.38, 255.01) @ 11:11:45.65 on A
+
+Gaze point at (342.63, 260.94) @ 11:11:45.82 on A
+
+Gaze point at (428.52, 336.99) @ 11:11:45.98 on A
+
+Gaze point at (432.12, 339.22) @ 11:11:46.15 on A
+
+Gaze point at (380.31, 355.11) @ 11:11:46.32 on A
+
+Gaze point at (459.44, 389.06) @ 11:11:46.48 on A
+
+Gaze point at (463.61, 392.66) @ 11:11:46.64 on A
+
+Gaze point at (372.02, 331.62) @ 11:11:46.80 on A
+
+Gaze point at (372.32, 333.86) @ 11:11:46.97 on A
+
+Gaze point at (372.76, 335.89) @ 11:11:47.13 on A
+
+Gaze point at (397.93, 340.38) @ 11:11:47.29 on A
+
+Gaze point at (375.65, 332.94) @ 11:11:47.46 on A
+
+Gaze point at (379.66, 334.94) @ 11:11:47.61 on A
+
+Gaze point at (412.21, 349.63) @ 11:11:47.77 on A
+
+Gaze point at (487.17, 271.21) @ 11:11:47.94 on A
+
+Gaze point at (485.34, 267.01) @ 11:11:48.09 on A
+
+Gaze point at (421.33, 251.31) @ 11:11:48.26 on A
+
+Gaze point at (410.60, 250.97) @ 11:11:48.43 on A
+
+Gaze point at (408.80, 247.88) @ 11:11:48.58 on A
+
+Gaze point at (467.15, 218.87) @ 11:11:48.75 on A
+
+Gaze point at (436.05, 175.32) @ 11:11:48.91 on A
+
+Gaze point at (435.76, 171.88) @ 11:11:49.08 on A
+
+Gaze point at (443.59, 151.00) @ 11:11:49.22 on A
+
+Gaze point at (475.34, 158.54) @ 11:11:49.39 on A
+
+Gaze point at (479.05, 157.03) @ 11:11:49.56 on A
+
+Gaze point at (470.76, 174.31) @ 11:11:49.71 on A
+
+Gaze point at (431.59, 108.55) @ 11:11:49.87 on A
+
+Gaze point at (419.27, 77.76) @ 11:11:50.03 on A
+
+Gaze point at (427.95, 76.36) @ 11:11:50.20 on A
+
+Gaze point at (507.05, 89.83) @ 11:11:50.37 on A
+
+Gaze point at (211.71, 272.72) @ 11:11:50.52 on A
+
+Gaze point at (215.79, 263.29) @ 11:11:50.68 on A
+
+Gaze point at (231.94, 203.54) @ 11:11:50.82 on A
+
+Gaze point at (144.45, 230.10) @ 11:11:50.98 on A
+
+Gaze point at (138.47, 229.58) @ 11:11:51.13 on A
+
+Gaze point at (135.95, 222.71) @ 11:11:51.30 on A
+
+Gaze point at (114.27, 353.51) @ 11:11:51.47 on A
+
+Gaze point at (118.76, 355.83) @ 11:11:51.61 on A
+
+Gaze point at (88.47, 336.07) @ 11:11:51.78 on A
+
+Gaze point at (87.50, 339.20) @ 11:11:51.94 on A
+
+Gaze point at (311.18, 300.71) @ 11:11:52.11 on A
+
+Gaze point at (323.60, 212.84) @ 11:11:52.28 on A
+
+Gaze point at (323.69, 213.59) @ 11:11:52.42 on A
+
+Gaze point at (222.00, 198.92) @ 11:11:52.58 on A
+
+Gaze point at (211.17, 198.03) @ 11:11:52.73 on A
+
+Gaze point at (222.95, 194.03) @ 11:11:52.90 on A
+
+Gaze point at (233.71, 210.15) @ 11:11:53.07 on A
+
+Gaze point at (444.36, 507.77) @ 11:11:53.23 on A
+
+Gaze point at (419.73, 501.97) @ 11:11:53.40 on A
+
+Gaze point at (420.17, 505.44) @ 11:11:53.56 on A
+
+Gaze point at (433.26, 515.32) @ 11:11:53.72 on A
+
+Gaze point at (451.81, 554.05) @ 11:11:53.89 on A
+
+Gaze point at (469.37, 601.82) @ 11:11:54.05 on A
+
+Gaze point at (503.74, 658.61) @ 11:11:54.22 on A
+
+Gaze point at (512.74, 671.13) @ 11:11:54.36 on A
+
+Gaze point at (484.21, 694.17) @ 11:11:54.53 on A
+
+Gaze point at (75.07, 680.79) @ 11:11:54.69 on A
+
+Gaze point at (79.45, 657.21) @ 11:11:54.84 on A
+
+Gaze point at (97.22, 547.77) @ 11:11:55.01 on A
+
+Gaze point at (101.50, 540.81) @ 11:11:55.18 on A
+
+Gaze point at (44.34, 548.79) @ 11:11:55.33 on A
+
+Gaze point at (715.97, 380.01) @ 11:11:55.50 on A
+
+Gaze point at (732.77, 338.78) @ 11:11:55.65 on A
+
+Gaze point at (728.58, 333.48) @ 11:11:55.82 on A
+
+Gaze point at (749.47, 329.32) @ 11:11:55.99 on A
+
+Gaze point at (750.91, 325.70) @ 11:11:56.13 on A
+
+Gaze point at (368.53, 328.42) @ 11:11:56.30 on A
+
+Gaze point at (371.32, 327.72) @ 11:11:56.46 on A
+
+Gaze point at (503.15, 353.91) @ 11:11:56.63 on A
+
+Gaze point at (513.86, 400.62) @ 11:11:56.80 on A
+
+Gaze point at (758.87, 329.12) @ 11:11:56.96 on A
+
+Gaze point at (760.55, 324.74) @ 11:11:57.12 on A
+
+Gaze point at (726.02, 347.51) @ 11:11:57.29 on A
+
+Gaze point at (248.67, 212.36) @ 11:11:57.45 on A
+
+Gaze point at (205.88, 184.43) @ 11:11:57.61 on A
+
+Gaze point at (197.51, 187.00) @ 11:11:57.76 on A
+
+Gaze point at (202.35, 129.89) @ 11:11:57.93 on A
+
+Gaze point at (121.10, 136.01) @ 11:11:58.08 on A
+
+Gaze point at (209.06, 65.47) @ 11:11:58.25 on A
+
+Gaze point at (211.18, 61.06) @ 11:11:58.42 on A
+
+Gaze point at (211.65, 62.77) @ 11:11:58.56 on A
+
+Gaze point at (66.29, 44.08) @ 11:11:58.72 on A
+
+Gaze point at (28.10, 32.30) @ 11:11:58.88 on A
+
+Gaze point at (63.70, 7.28) @ 11:11:59.05 on A
+
+Gaze point at (48.99, -52.04) @ 11:11:59.22 on A
+
+Gaze point at (25.27, 34.74) @ 11:11:59.38 on A
+
+Gaze point at (54.23, 32.56) @ 11:11:59.55 on A
+
+Gaze point at (51.11, 38.54) @ 11:11:59.72 on A
+
+Gaze point at (81.35, 89.49) @ 11:11:59.87 on A
+
+Gaze point at (122.77, 177.25) @ 11:12:00.03 on A
+
+Gaze point at (139.10, 202.16) @ 11:12:00.17 on A
+
+Gaze point at (133.88, 222.39) @ 11:12:00.33 on A
+
+Gaze point at (135.81, 208.68) @ 11:12:00.48 on A
+
+Gaze point at (125.58, 182.98) @ 11:12:00.65 on A
+
+Gaze point at (812.59, 264.92) @ 11:12:00.81 on A
+
+Gaze point at (744.85, 317.45) @ 11:12:00.98 on A
+
+Gaze point at (738.74, 324.35) @ 11:12:01.15 on A
+
+Gaze point at (731.77, 312.87) @ 11:12:01.32 on A
+
+Gaze point at (755.42, 312.02) @ 11:12:01.48 on A
+
+Gaze point at (149.68, 165.76) @ 11:12:01.65 on A
+
+Gaze point at (126.19, 151.18) @ 11:12:01.80 on A
+
+Gaze point at (85.43, 84.36) @ 11:12:01.97 on A
+
+Gaze point at (140.71, 192.63) @ 11:12:05.09 on A
+
+Gaze point at (137.03, 315.04) @ 11:12:05.38 on A
+
+Gaze point at (129.61, 265.40) @ 11:12:05.54 on A
+
+Gaze point at (133.92, 223.84) @ 11:12:05.70 on A
+
+Gaze point at (113.01, 177.43) @ 11:12:05.86 on A
+
+Gaze point at (97.63, 162.00) @ 11:12:06.03 on A
+
+Gaze point at (96.17, 138.68) @ 11:12:06.19 on A
+
+Gaze point at (100.27, 140.86) @ 11:12:06.34 on A
+
+Gaze point at (105.83, 147.06) @ 11:12:06.50 on A
+
+Gaze point at (147.45, 122.30) @ 11:12:06.66 on A
+
+Gaze point at (149.80, 125.07) @ 11:12:06.83 on A
+
+Gaze point at (148.84, 128.49) @ 11:12:07.00 on A
+
+Gaze point at (198.27, 123.99) @ 11:12:07.16 on A
+
+Gaze point at (114.86, 179.34) @ 11:12:07.33 on A
+
+Gaze point at (114.59, 172.05) @ 11:12:07.49 on A
+
+Gaze point at (341.86, 117.78) @ 11:12:07.65 on A
+
+Gaze point at (337.72, 107.34) @ 11:12:07.82 on A
+
+Gaze point at (331.11, 87.75) @ 11:12:07.99 on A
+
+Gaze point at (340.94, 70.03) @ 11:12:08.14 on A
+
+Gaze point at (344.88, 65.37) @ 11:12:08.31 on A
+
+Gaze point at (211.78, 72.80) @ 11:12:08.48 on A
+
+Gaze point at (352.22, 373.21) @ 11:12:08.63 on A
+
+Gaze point at (263.62, 443.54) @ 11:12:08.80 on A
+
+Gaze point at (257.61, 436.14) @ 11:12:08.96 on A
+
+Gaze point at (133.37, 497.05) @ 11:12:09.13 on A
+
+Gaze point at (136.63, 501.45) @ 11:12:09.29 on A
+
+Gaze point at (196.42, 476.71) @ 11:12:09.45 on A
+
+Gaze point at (203.96, 430.11) @ 11:12:09.62 on A
+
+Gaze point at (199.66, 424.79) @ 11:12:09.78 on A
+
+Gaze point at (231.69, 441.99) @ 11:12:09.94 on A
+
+Gaze point at (323.11, 415.68) @ 11:12:10.09 on A
+
+Gaze point at (323.02, 413.52) @ 11:12:10.26 on A
+
+Gaze point at (350.53, 447.07) @ 11:12:10.43 on A
+
+Gaze point at (347.97, 447.84) @ 11:12:10.59 on A
+
+Gaze point at (400.54, 440.04) @ 11:12:10.75 on A
+
+Gaze point at (396.30, 433.83) @ 11:12:10.90 on A
+
+Gaze point at (396.91, 435.61) @ 11:12:11.07 on A
+
+Gaze point at (387.11, 438.06) @ 11:12:11.24 on A
+
+Gaze point at (385.54, 436.77) @ 11:12:11.40 on A
+
+Gaze point at (381.60, 436.11) @ 11:12:11.57 on A
+
+Gaze point at (446.18, 506.04) @ 11:12:11.74 on A
+
+Gaze point at (448.65, 519.43) @ 11:12:11.89 on A
+
+Gaze point at (448.20, 519.79) @ 11:12:12.04 on A
+
+Gaze point at (205.98, 543.22) @ 11:12:12.19 on A
+
+Gaze point at (200.50, 547.30) @ 11:12:12.35 on A
+
+Gaze point at (252.21, 481.00) @ 11:12:12.52 on A
+
+Gaze point at (250.87, 474.04) @ 11:12:12.68 on A
+
+Gaze point at (329.08, 458.80) @ 11:12:12.85 on A
+
+Gaze point at (327.21, 462.88) @ 11:12:13.00 on A
+
+Gaze point at (375.53, 488.59) @ 11:12:13.17 on A
+
+Gaze point at (387.35, 483.27) @ 11:12:13.32 on A
+
+Gaze point at (383.85, 385.58) @ 11:12:13.47 on A
+
+Gaze point at (384.56, 389.97) @ 11:12:13.64 on A
+
+Gaze point at (338.61, 338.32) @ 11:12:13.79 on A
+
+Gaze point at (385.64, 330.86) @ 11:12:13.96 on A
+
+Gaze point at (393.30, 323.63) @ 11:12:14.11 on A
+
+Gaze point at (434.76, 296.21) @ 11:12:14.28 on A
+
+Gaze point at (459.82, 253.89) @ 11:12:14.45 on A
+
+Gaze point at (441.62, 466.56) @ 11:12:14.61 on A
+
+Gaze point at (405.39, 455.57) @ 11:12:14.76 on A
+
+Gaze point at (386.10, 448.26) @ 11:12:14.92 on A
+
+Gaze point at (408.87, 486.27) @ 11:12:15.08 on A
+
+Gaze point at (444.89, 522.00) @ 11:12:15.25 on A
+
+Gaze point at (450.50, 526.46) @ 11:12:15.41 on A
+
+Gaze point at (443.81, 518.45) @ 11:12:15.58 on A
+
+Gaze point at (493.12, 506.79) @ 11:12:15.75 on A
+
+Gaze point at (497.23, 523.87) @ 11:12:15.91 on A
+
+Gaze point at (511.46, 579.01) @ 11:12:16.08 on A
+
+Gaze point at (515.66, 597.74) @ 11:12:16.25 on A
+
+Gaze point at (524.51, 614.56) @ 11:12:16.41 on A
+
+Gaze point at (524.50, 623.27) @ 11:12:16.57 on A
+
+Gaze point at (462.75, 482.09) @ 11:12:16.73 on A
+
+Gaze point at (455.11, 463.56) @ 11:12:16.90 on A
+
+Gaze point at (478.87, 542.84) @ 11:12:17.07 on A
+
+Gaze point at (520.13, 591.53) @ 11:12:17.22 on A
+
+Gaze point at (516.27, 593.47) @ 11:12:17.38 on A
+
+Gaze point at (527.36, 601.62) @ 11:12:17.53 on A
+
+Gaze point at (520.04, 591.45) @ 11:12:17.69 on A
+
+Gaze point at (516.17, 593.00) @ 11:12:17.86 on A
+
+Gaze point at (516.20, 596.05) @ 11:12:18.02 on A
+
+Gaze point at (521.15, 583.35) @ 11:12:18.19 on A
+
+Gaze point at (518.69, 584.12) @ 11:12:18.35 on A
+
+Gaze point at (520.97, 589.55) @ 11:12:18.52 on A
+
+Gaze point at (498.11, 607.08) @ 11:12:18.69 on A
+
+Gaze point at (740.12, 369.75) @ 11:12:18.85 on A
+
+Gaze point at (740.72, 258.83) @ 11:12:19.02 on A
+
+Gaze point at (726.85, 354.37) @ 11:12:19.19 on A
+
+Gaze point at (721.80, 339.30) @ 11:12:19.34 on A
+
+Gaze point at (718.82, 326.24) @ 11:12:19.50 on A
+
+Gaze point at (511.04, 582.51) @ 11:12:19.66 on A
+
+Gaze point at (503.63, 601.58) @ 11:12:19.83 on A
+
+Gaze point at (504.97, 598.67) @ 11:12:20.00 on A
+
+Gaze point at (502.20, 655.30) @ 11:12:20.16 on A
+
+Gaze point at (495.52, 624.82) @ 11:12:20.33 on A
+
+Gaze point at (501.76, 582.60) @ 11:12:20.50 on A
+
+Gaze point at (502.98, 570.65) @ 11:12:20.65 on A
+
+Gaze point at (503.33, 568.71) @ 11:12:20.81 on A
+
+Gaze point at (464.57, 510.41) @ 11:12:20.97 on A
+
+Gaze point at (456.44, 512.29) @ 11:12:21.14 on A
+
+Gaze point at (458.58, 514.08) @ 11:12:21.31 on A
+
+Gaze point at (493.89, 523.15) @ 11:12:21.47 on A
+
+Gaze point at (500.10, 524.36) @ 11:12:21.63 on A
+
+Gaze point at (498.41, 523.69) @ 11:12:21.80 on A
+
+Gaze point at (501.61, 524.18) @ 11:12:21.95 on A
+
+Gaze point at (501.03, 545.59) @ 11:12:22.11 on A
+
+Gaze point at (503.68, 549.52) @ 11:12:22.27 on A
+
+Gaze point at (527.28, 561.72) @ 11:12:22.44 on A
+
+Gaze point at (519.33, 516.87) @ 11:12:22.58 on A
+
+Gaze point at (515.81, 513.65) @ 11:12:22.76 on A
+
+Gaze point at (518.47, 593.91) @ 11:12:22.91 on A
+
+Gaze point at (520.72, 588.96) @ 11:12:23.07 on A
+
+Gaze point at (515.86, 610.14) @ 11:12:23.23 on A
+
+Gaze point at (517.49, 600.85) @ 11:12:23.39 on A
+
+Gaze point at (499.07, 581.78) @ 11:12:23.54 on A
+
+Gaze point at (496.02, 598.16) @ 11:12:23.71 on A
+
+Gaze point at (505.34, 627.43) @ 11:12:23.87 on A
+
+Gaze point at (497.98, 646.86) @ 11:12:24.03 on A
+
+Gaze point at (503.16, 618.84) @ 11:12:24.18 on A
+
+Gaze point at (511.94, 606.10) @ 11:12:24.34 on A
+
+Gaze point at (495.25, 569.48) @ 11:12:24.49 on A
+
+Gaze point at (491.91, 565.86) @ 11:12:24.66 on A
+
+Gaze point at (504.06, 554.99) @ 11:12:24.83 on A
+
+Gaze point at (511.25, 595.68) @ 11:12:24.99 on A
+
+Gaze point at (497.58, 603.29) @ 11:12:25.16 on A
+
+Gaze point at (504.03, 601.57) @ 11:12:25.32 on A
+
+Gaze point at (506.11, 602.93) @ 11:12:25.48 on A
+
+Gaze point at (511.51, 601.66) @ 11:12:25.65 on A
+
+Gaze point at (508.21, 595.80) @ 11:12:25.81 on A
+
+Gaze point at (530.27, 547.05) @ 11:12:25.97 on A
+
+Gaze point at (525.41, 529.94) @ 11:12:26.11 on A
+
+Gaze point at (526.70, 529.08) @ 11:12:26.28 on A
+
+Gaze point at (531.00, 535.82) @ 11:12:26.43 on A
+
+Gaze point at (529.78, 536.77) @ 11:12:26.60 on A
+
+Gaze point at (505.29, 547.04) @ 11:12:26.76 on A
+
+Gaze point at (508.00, 551.17) @ 11:12:26.92 on A
+
+Gaze point at (520.37, 581.87) @ 11:12:27.09 on A
+
+Gaze point at (510.03, 604.91) @ 11:12:27.26 on A
+
+Gaze point at (508.35, 536.44) @ 11:12:27.42 on A
+
+Gaze point at (584.84, 657.20) @ 11:12:32.91 on A
+
+Gaze point at (527.84, 621.13) @ 11:12:33.08 on A
+
+Gaze point at (545.79, 624.19) @ 11:12:33.24 on A
+
+Gaze point at (553.65, 643.75) @ 11:12:33.41 on A
+
+Gaze point at (539.33, 624.70) @ 11:12:33.58 on A
+
+Gaze point at (530.95, 604.37) @ 11:12:33.74 on A
+
+Gaze point at (526.10, 596.73) @ 11:12:33.90 on A
+
+Gaze point at (493.68, 567.61) @ 11:12:34.07 on A
+
+Gaze point at (493.27, 557.17) @ 11:12:34.23 on A
+
+Gaze point at (494.04, 560.60) @ 11:12:34.40 on A
+
+Gaze point at (505.74, 576.08) @ 11:12:34.57 on A
+
+Gaze point at (510.68, 586.07) @ 11:12:34.72 on A
+
+Gaze point at (515.15, 597.30) @ 11:12:34.89 on A
+
+Gaze point at (516.55, 596.77) @ 11:12:35.04 on A
+
+Gaze point at (519.54, 598.42) @ 11:12:35.21 on A
+
+Gaze point at (519.83, 600.31) @ 11:12:35.36 on A
+
+Gaze point at (524.15, 598.56) @ 11:12:35.52 on A
+
+Gaze point at (526.02, 593.80) @ 11:12:35.68 on A
+
+Gaze point at (521.96, 604.63) @ 11:12:35.84 on A
+
+Gaze point at (519.22, 605.15) @ 11:12:36.01 on A
+
+Gaze point at (520.24, 602.78) @ 11:12:36.18 on A
+
+Gaze point at (518.36, 601.74) @ 11:12:36.34 on A
+
+Gaze point at (515.55, 602.99) @ 11:12:36.51 on A
+
+Gaze point at (518.69, 598.52) @ 11:12:36.67 on A
+
+Gaze point at (521.05, 604.04) @ 11:12:36.84 on A
+
+Gaze point at (520.54, 601.88) @ 11:12:37.01 on A
+
+Gaze point at (523.32, 600.01) @ 11:12:37.17 on A
+
+Gaze point at (517.44, 594.64) @ 11:12:37.34 on A
+
+Gaze point at (514.73, 596.05) @ 11:12:37.48 on A
+
+Gaze point at (509.81, 598.26) @ 11:12:37.65 on A
+
+Gaze point at (761.23, 265.96) @ 11:12:37.81 on A
+
+Gaze point at (805.54, 92.18) @ 11:12:37.97 on A
+
+Gaze point at (815.75, 58.05) @ 11:12:38.14 on A
+
+Gaze point at (808.41, 79.45) @ 11:12:38.30 on A
+
+Gaze point at (805.65, 80.09) @ 11:12:38.46 on A
+
+Gaze point at (599.71, 515.56) @ 11:12:38.62 on A
+
+Gaze point at (516.42, 581.98) @ 11:12:38.78 on A
+
+Gaze point at (517.38, 560.10) @ 11:12:38.94 on A
+
+Gaze point at (476.93, 394.47) @ 11:12:39.11 on A
+
+Gaze point at (486.05, 413.49) @ 11:12:39.27 on A
+
+Gaze point at (489.21, 312.00) @ 11:12:39.44 on A
+
+Gaze point at (521.11, 446.80) @ 11:12:39.61 on A
+
+Gaze point at (508.85, 316.05) @ 11:12:39.76 on A
+
+Gaze point at (493.77, 237.32) @ 11:12:39.92 on A
+
+Gaze point at (476.98, 169.23) @ 11:12:40.08 on A
+
+Gaze point at (402.55, 2.66) @ 11:12:40.25 on A
+
+Gaze point at (245.98, -28.86) @ 11:12:42.04 on A
+
+Gaze point at (428.55, 454.99) @ 11:12:42.19 on A
+
+Gaze point at (442.94, 510.15) @ 11:12:42.35 on A
+
+Gaze point at (409.00, 504.56) @ 11:12:42.50 on A
+
+Gaze point at (430.66, 506.17) @ 11:12:42.66 on A
+
+Gaze point at (436.03, 506.26) @ 11:12:42.81 on A
+
+Gaze point at (305.31, 385.22) @ 11:12:42.98 on A
+
+Gaze point at (294.52, 378.13) @ 11:12:43.14 on A
+
+Gaze point at (290.96, 304.92) @ 11:12:43.30 on A
+
+Gaze point at (191.64, 322.50) @ 11:12:43.47 on A
+
+Gaze point at (191.01, 325.76) @ 11:12:43.64 on A
+
+Gaze point at (119.13, 361.86) @ 11:12:43.80 on A
+
+Gaze point at (87.95, 358.84) @ 11:12:43.97 on A
+
+Gaze point at (360.45, 351.02) @ 11:12:44.12 on A
+
+Gaze point at (382.95, 347.42) @ 11:12:44.29 on A
+
+Gaze point at (551.90, 230.10) @ 11:12:44.46 on A
+
+Gaze point at (835.22, 82.75) @ 11:12:44.62 on A
+
+Gaze point at (814.26, 22.24) @ 11:12:44.77 on A
+
+Gaze point at (622.10, 81.72) @ 11:12:44.94 on A
+
+Gaze point at (193.83, 378.95) @ 11:12:45.10 on A
+
+Gaze point at (392.67, 358.79) @ 11:12:45.27 on A
+
+Gaze point at (462.38, 361.69) @ 11:12:45.43 on A
+
+Gaze point at (461.66, 560.19) @ 11:12:45.59 on A
+
+Gaze point at (306.34, 686.44) @ 11:12:45.76 on A
+
+Gaze point at (190.42, 659.52) @ 11:12:45.92 on A
+
+Gaze point at (169.88, 664.42) @ 11:12:46.09 on A
+
+Gaze point at (476.26, 654.29) @ 11:12:46.25 on A
+
+Gaze point at (474.84, 652.77) @ 11:12:46.42 on A
+
+Gaze point at (417.08, 635.37) @ 11:12:46.58 on A
+
+Gaze point at (369.94, 643.25) @ 11:12:46.74 on A
+
+Gaze point at (176.31, 335.67) @ 11:12:46.90 on A
+
+Gaze point at (129.67, 206.99) @ 11:12:47.07 on A
+
+Gaze point at (148.16, 146.78) @ 11:12:47.23 on A
+
+Gaze point at (152.53, 111.41) @ 11:12:47.40 on A
+
+Gaze point at (146.45, 116.43) @ 11:12:47.57 on A
+
+Gaze point at (120.05, 133.17) @ 11:12:47.72 on A
+
+Gaze point at (123.05, 170.27) @ 11:12:47.88 on A
+
+Gaze point at (119.80, 165.43) @ 11:12:48.03 on A
+
+Gaze point at (123.52, 164.84) @ 11:12:48.20 on A
+
+Gaze point at (447.58, 142.23) @ 11:12:48.35 on A
+
+Gaze point at (726.69, 145.83) @ 11:12:48.52 on A
+
+Gaze point at (814.51, 90.92) @ 11:12:48.69 on A
+
+Gaze point at (653.46, 102.89) @ 11:12:48.85 on A
+
+Gaze point at (110.21, 161.28) @ 11:12:49.02 on A
+
+Gaze point at (94.52, 123.31) @ 11:12:49.17 on A
+
+Gaze point at (81.22, 96.57) @ 11:12:49.34 on A
+
+Gaze point at (92.12, 62.25) @ 11:12:49.51 on A
+
+Gaze point at (98.45, 80.94) @ 11:12:49.68 on A
+
+Gaze point at (105.42, 98.61) @ 11:12:49.84 on A
+
+Gaze point at (104.99, 99.66) @ 11:12:50.00 on A
+
+Gaze point at (108.07, 122.65) @ 11:12:50.16 on A
+
+Gaze point at (110.25, 127.29) @ 11:12:50.33 on A
+
+Gaze point at (105.36, 123.67) @ 11:12:50.50 on A
+
+Gaze point at (99.93, 115.22) @ 11:12:50.66 on A
+
+Gaze point at (102.26, 112.16) @ 11:12:50.83 on A
+
+Gaze point at (106.71, 120.57) @ 11:12:51.00 on A
+
+Gaze point at (103.03, 122.93) @ 11:12:51.16 on A
+
+Gaze point at (699.30, 23.07) @ 11:12:51.32 on A
+
+Gaze point at (821.48, 23.41) @ 11:12:51.48 on A
+
+Gaze point at (854.11, 73.36) @ 11:12:51.65 on A
+
+Gaze point at (889.97, 126.49) @ 11:12:51.82 on A
+
+Gaze point at (872.28, 160.44) @ 11:12:51.96 on A
+
+Gaze point at (850.19, 145.64) @ 11:12:52.12 on A
+
+Gaze point at (870.95, 156.26) @ 11:12:52.27 on A
+
+Gaze point at (878.64, 169.76) @ 11:12:52.43 on A
+
+Gaze point at (160.28, 183.61) @ 11:12:52.58 on A
+
+Gaze point at (124.51, 160.30) @ 11:12:52.74 on A
+
+Gaze point at (127.16, 163.94) @ 11:12:52.91 on A
+
+Gaze point at (130.22, 136.38) @ 11:12:53.07 on A
+
+Gaze point at (111.95, 156.62) @ 11:12:53.24 on A
+
+Gaze point at (118.19, 163.95) @ 11:12:53.41 on A
+
+Gaze point at (118.27, 163.55) @ 11:12:53.55 on A
+
+Gaze point at (123.73, 138.40) @ 11:12:53.71 on A
+
+Gaze point at (126.75, 129.09) @ 11:12:53.88 on A
+
+Gaze point at (117.50, 120.63) @ 11:12:54.05 on A
+
+Gaze point at (104.76, 138.40) @ 11:12:54.21 on A
+
+Gaze point at (105.62, 143.90) @ 11:12:54.38 on A
+
+Gaze point at (105.94, 142.34) @ 11:12:54.53 on A
+
+Gaze point at (110.82, 139.05) @ 11:12:54.69 on A
+
+Gaze point at (114.06, 137.84) @ 11:12:54.86 on A
+
+Gaze point at (107.92, 137.65) @ 11:12:55.03 on A
+
+Gaze point at (303.66, 371.16) @ 11:12:55.19 on A
+
+Gaze point at (357.21, 466.97) @ 11:12:55.36 on A
+
+Gaze point at (329.75, 493.47) @ 11:12:55.53 on A
+
+Gaze point at (501.17, 619.31) @ 11:12:55.69 on A
+
+Gaze point at (523.37, 610.31) @ 11:12:55.86 on A
+
+Gaze point at (274.54, 282.83) @ 11:12:56.03 on A
+
+Gaze point at (148.90, 156.69) @ 11:12:56.19 on A
+
+Gaze point at (114.48, 153.01) @ 11:12:56.36 on A
+
+Gaze point at (109.78, 148.35) @ 11:12:56.53 on A
+
+Gaze point at (110.38, 139.27) @ 11:12:56.69 on A
+
+Gaze point at (111.49, 145.05) @ 11:12:56.86 on A
+
+Gaze point at (114.74, 148.38) @ 11:12:57.01 on A
+
+Gaze point at (116.42, 143.74) @ 11:12:57.18 on A
+
+Gaze point at (119.86, 146.75) @ 11:12:57.35 on A
+
+Gaze point at (123.76, 156.28) @ 11:12:57.51 on A
+
+Gaze point at (123.59, 145.83) @ 11:12:57.68 on A
+
+Gaze point at (334.52, 121.91) @ 11:12:57.82 on A
+
+Gaze point at (842.61, 95.95) @ 11:12:57.99 on A
+
+Gaze point at (888.03, 156.18) @ 11:12:58.16 on A
+
+Gaze point at (887.36, 158.18) @ 11:12:58.31 on A
+
+Gaze point at (824.64, 71.75) @ 11:12:58.48 on A
+
+Gaze point at (297.60, 112.11) @ 11:12:58.64 on A
+
+Gaze point at (120.87, 128.65) @ 11:12:58.81 on A
+
+Gaze point at (116.32, 151.81) @ 11:12:58.98 on A
+
+Gaze point at (118.27, 149.94) @ 11:12:59.13 on A
+
+Gaze point at (115.34, 149.81) @ 11:12:59.30 on A
+
+Gaze point at (150.39, 521.99) @ 11:12:59.54 on A
+
+Gaze point at (123.27, 168.67) @ 11:12:59.71 on A
+
+Gaze point at (133.31, 189.01) @ 11:12:59.88 on A
+
+Gaze point at (275.76, 198.96) @ 11:13:00.02 on A
+
+Gaze point at (800.40, 231.56) @ 11:13:00.19 on A
+
+Gaze point at (848.92, 276.85) @ 11:13:00.34 on A
+
+Gaze point at (831.32, 284.04) @ 11:13:00.51 on A
+
+Gaze point at (413.59, 366.78) @ 11:13:00.68 on A
+
+Gaze point at (364.04, 308.02) @ 11:13:00.84 on A
+
+Gaze point at (232.56, 285.38) @ 11:13:01.01 on A
+
+Gaze point at (138.09, 209.82) @ 11:13:01.17 on A
+
+Gaze point at (250.24, 304.58) @ 11:13:01.32 on A
+
+Gaze point at (275.47, 309.30) @ 11:13:01.48 on A
+
+Gaze point at (254.07, 204.55) @ 11:13:01.63 on A
+
+Gaze point at (-55.07, 98.93) @ 11:13:01.83 on A
+
+Gaze point at (768.39, -128.85) @ 11:13:03.15 on A
+
+Gaze point at (960.97, -13.61) @ 11:13:03.32 on A
+
+Gaze point at (933.96, 70.95) @ 11:13:03.49 on A
+
+Gaze point at (903.46, 77.42) @ 11:13:03.66 on A
+
+Gaze point at (215.10, 338.31) @ 11:13:03.81 on A
+
+Gaze point at (199.35, 323.11) @ 11:13:03.98 on A
+
+Gaze point at (56.80, 417.27) @ 11:13:04.13 on A
+
+Gaze point at (169.06, 467.78) @ 11:13:04.30 on A
+
+Gaze point at (211.72, 447.25) @ 11:13:04.47 on A
+
+Gaze point at (183.78, 423.20) @ 11:13:04.63 on A
+
+Gaze point at (29.76, 508.83) @ 11:13:04.81 on A
+
+Gaze point at (297.50, 522.06) @ 11:13:04.97 on A
+
+Gaze point at (246.34, 553.39) @ 11:13:05.16 on A
+
+Gaze point at (117.88, 563.52) @ 11:13:05.35 on A
+
+Gaze point at (144.26, 586.43) @ 11:13:05.52 on A
+
+Gaze point at (161.54, 553.64) @ 11:13:05.69 on A
+
+Gaze point at (172.62, 552.38) @ 11:13:05.85 on A
+
+Gaze point at (179.44, 537.82) @ 11:13:06.02 on A
+
+Gaze point at (323.07, 560.16) @ 11:13:06.17 on A
+
+Gaze point at (320.47, 562.52) @ 11:13:06.34 on A
+
+Gaze point at (471.77, 388.80) @ 11:13:06.51 on A
+
+Gaze point at (494.27, 297.02) @ 11:13:06.68 on A
+
+Gaze point at (401.20, 339.54) @ 11:13:06.93 on A
+
+Gaze point at (407.20, 312.45) @ 11:13:07.10 on A
+
+Gaze point at (262.79, 332.57) @ 11:13:07.26 on A
+
+Gaze point at (207.96, 332.70) @ 11:13:07.43 on A
+
+Gaze point at (189.58, 315.78) @ 11:13:07.59 on A
+
+Gaze point at (35.71, 464.85) @ 11:13:07.75 on A
+
+Gaze point at (29.92, 459.36) @ 11:13:07.92 on A
+
+Gaze point at (26.55, 450.70) @ 11:13:08.06 on A
+
+Gaze point at (149.87, 379.94) @ 11:13:08.23 on A
+
+Gaze point at (229.12, 579.54) @ 11:13:08.40 on A
+
+Gaze point at (225.01, 573.34) @ 11:13:08.56 on A
+
+Gaze point at (202.77, 545.03) @ 11:13:08.73 on A
+
+Gaze point at (192.97, 509.19) @ 11:13:08.90 on A
+
+Gaze point at (193.08, 510.54) @ 11:13:09.06 on A
+
+Gaze point at (192.60, 505.24) @ 11:13:09.23 on A
+
+Gaze point at (289.38, 539.07) @ 11:13:09.39 on A
+
+Gaze point at (288.24, 556.86) @ 11:13:09.55 on A
+
+Gaze point at (292.96, 562.80) @ 11:13:09.72 on A
+
+Gaze point at (249.69, 520.79) @ 11:13:09.87 on A
+
+Gaze point at (229.17, 507.79) @ 11:13:10.06 on A
+
+Gaze point at (246.41, 518.65) @ 11:13:10.25 on A
+
+Gaze point at (210.60, 490.32) @ 11:13:10.42 on A
+
+Gaze point at (245.61, 508.87) @ 11:13:10.58 on A
+
+Gaze point at (234.39, 508.68) @ 11:13:10.75 on A
+
+Gaze point at (237.17, 515.52) @ 11:13:10.92 on A
+
+Gaze point at (240.06, 517.34) @ 11:13:11.07 on A
+
+Gaze point at (238.98, 483.77) @ 11:13:11.24 on A
+
+Gaze point at (246.28, 431.59) @ 11:13:11.39 on A
+
+Gaze point at (230.30, 412.60) @ 11:13:11.55 on A
+
+Gaze point at (330.14, 511.36) @ 11:13:11.72 on A
+
+Gaze point at (376.68, 557.38) @ 11:13:11.88 on A
+
+Gaze point at (415.86, 633.92) @ 11:13:12.06 on A
+
+Gaze point at (168.79, 659.52) @ 11:13:12.23 on A
+
+Gaze point at (40.22, 678.48) @ 11:13:12.39 on A
+
+Gaze point at (98.83, 672.84) @ 11:13:12.56 on A
+
+Gaze point at (350.56, 266.97) @ 11:13:12.73 on A
+
+Gaze point at (367.85, 277.12) @ 11:13:12.89 on A
+
+Gaze point at (303.67, 244.09) @ 11:13:13.05 on A
+
+Gaze point at (311.60, 249.76) @ 11:13:13.21 on A
+
+Gaze point at (259.44, 361.87) @ 11:13:13.37 on A
+
+Gaze point at (347.22, 200.98) @ 11:13:13.53 on A
+
+Gaze point at (323.08, 179.82) @ 11:13:13.68 on A
+
+Gaze point at (291.72, 169.80) @ 11:13:13.84 on A
+
+Gaze point at (935.57, 142.78) @ 11:13:14.00 on A
+
+Gaze point at (892.60, 133.91) @ 11:13:14.16 on A
+
+Gaze point at (875.84, 125.99) @ 11:13:14.31 on A
+
+Gaze point at (255.46, 381.05) @ 11:13:14.48 on A
+
+Gaze point at (260.37, 384.19) @ 11:13:14.65 on A
+
+Gaze point at (163.18, 532.35) @ 11:13:14.81 on A
+
+Gaze point at (246.81, 572.04) @ 11:13:14.97 on A
+
+Gaze point at (227.65, 603.10) @ 11:13:15.12 on A
+
+Gaze point at (215.91, 607.63) @ 11:13:15.28 on A
+
+Gaze point at (206.06, 609.33) @ 11:13:15.45 on A
+
+Gaze point at (194.88, 593.33) @ 11:13:15.60 on A
+
+Gaze point at (196.09, 601.68) @ 11:13:15.77 on A
+
+Gaze point at (210.57, 628.74) @ 11:13:15.93 on A
+
+Gaze point at (355.10, 504.46) @ 11:13:16.10 on A
+
+Gaze point at (419.75, 455.20) @ 11:13:16.27 on A
+
+Gaze point at (467.50, 438.24) @ 11:13:16.43 on A
+
+Gaze point at (500.43, 461.63) @ 11:13:16.57 on A
+
+Gaze point at (507.92, 470.87) @ 11:13:16.73 on A
+
+Gaze point at (502.97, 462.88) @ 11:13:16.89 on A
+
+Gaze point at (493.25, 424.78) @ 11:13:17.06 on A
+
+Gaze point at (454.75, 336.19) @ 11:13:17.21 on A
+
+Gaze point at (445.25, 302.56) @ 11:13:17.37 on A
+
+Gaze point at (347.19, 267.38) @ 11:13:17.52 on A
+
+Gaze point at (319.45, 254.67) @ 11:13:17.69 on A
+
+Gaze point at (381.34, 251.24) @ 11:13:17.84 on A
+
+Gaze point at (493.88, 420.82) @ 11:13:18.01 on A
+
+Gaze point at (513.48, 457.82) @ 11:13:18.18 on A
+
+Gaze point at (499.75, 376.02) @ 11:13:18.34 on A
+
+Gaze point at (453.07, 275.72) @ 11:13:18.51 on A
+
+Gaze point at (396.38, 251.76) @ 11:13:18.66 on A
+
+Gaze point at (389.56, 248.31) @ 11:13:18.82 on A
+
+Gaze point at (479.55, 249.61) @ 11:13:18.99 on A
+
+Gaze point at (514.30, 265.55) @ 11:13:19.15 on A
+
+Gaze point at (513.23, 253.07) @ 11:13:19.32 on A
+
+Gaze point at (513.34, 254.69) @ 11:13:19.49 on A
+
+Gaze point at (413.71, 252.06) @ 11:13:19.65 on A
+
+Gaze point at (485.58, 319.93) @ 11:13:19.82 on A
+
+Gaze point at (512.00, 341.65) @ 11:13:19.99 on A
+
+Gaze point at (503.00, 325.84) @ 11:13:20.13 on A
+
+Gaze point at (524.19, 299.87) @ 11:13:20.30 on A
+
+Gaze point at (521.88, 311.73) @ 11:13:20.46 on A
+
+Gaze point at (522.29, 317.04) @ 11:13:20.62 on A
+
+Gaze point at (515.41, 348.12) @ 11:13:20.79 on A
+
+Gaze point at (515.71, 350.65) @ 11:13:20.95 on A
+
+Gaze point at (450.95, 286.93) @ 11:13:21.12 on A
+
+Gaze point at (419.50, 267.75) @ 11:13:21.27 on A
+
+Gaze point at (365.26, 227.68) @ 11:13:21.43 on A
+
+Gaze point at (348.24, 233.74) @ 11:13:21.60 on A
+
+Gaze point at (331.79, 236.11) @ 11:13:21.76 on A
+
+Gaze point at (317.84, 226.72) @ 11:13:21.93 on A
+
+Gaze point at (305.76, 226.17) @ 11:13:22.08 on A
+
+Gaze point at (285.91, 208.22) @ 11:13:22.25 on A
+
+Gaze point at (300.57, 218.42) @ 11:13:22.42 on A
+
+Gaze point at (297.74, 212.65) @ 11:13:22.58 on A
+
+Gaze point at (299.26, 214.78) @ 11:13:22.75 on A
+
+Gaze point at (299.97, 217.45) @ 11:13:22.92 on A
+
+Gaze point at (270.92, 238.64) @ 11:13:23.07 on A
+
+Gaze point at (304.39, 228.39) @ 11:13:23.24 on A
+
+Gaze point at (633.12, 242.21) @ 11:13:23.41 on A
+
+Gaze point at (683.03, 239.39) @ 11:13:23.57 on A
+
+Gaze point at (773.15, 343.69) @ 11:13:23.73 on A
+
+Gaze point at (880.85, 485.10) @ 11:13:23.88 on A
+
+Gaze point at (369.17, 301.79) @ 11:13:24.04 on A
+
+Gaze point at (293.36, 273.73) @ 11:13:24.21 on A
+
+Gaze point at (333.13, 224.73) @ 11:13:24.37 on A
+
+Gaze point at (316.83, 229.33) @ 11:13:24.54 on A
+
+Gaze point at (308.52, 226.23) @ 11:13:24.71 on A
+
+Gaze point at (314.12, 228.07) @ 11:13:24.86 on A
+
+Gaze point at (314.16, 229.77) @ 11:13:25.03 on A
+
+Gaze point at (311.62, 222.66) @ 11:13:25.19 on A
+
+Gaze point at (399.05, 259.34) @ 11:13:25.35 on A
+
+Gaze point at (421.80, 272.23) @ 11:13:25.51 on A
+
+Gaze point at (427.17, 187.25) @ 11:13:25.67 on A
+
+Gaze point at (325.47, 247.81) @ 11:13:25.84 on A
+
+Gaze point at (284.31, 326.30) @ 11:13:25.99 on A
+
+Gaze point at (280.11, 320.76) @ 11:13:26.16 on A
+
+Gaze point at (276.67, 316.06) @ 11:13:26.33 on A
+
+Gaze point at (338.18, 220.13) @ 11:13:26.48 on A
+
+Gaze point at (316.01, 203.55) @ 11:13:26.65 on A
+
+Gaze point at (271.57, 180.05) @ 11:13:26.81 on A
+
+Gaze point at (271.88, 179.65) @ 11:13:26.98 on A
+
+Gaze point at (268.50, 214.93) @ 11:13:27.14 on A
+
+Gaze point at (324.70, 243.11) @ 11:13:27.30 on A
+
+Gaze point at (375.87, 280.88) @ 11:13:27.47 on A
+
+Gaze point at (402.61, 549.19) @ 11:13:27.64 on A
+
+Gaze point at (397.71, 535.69) @ 11:13:27.80 on A
+
+Gaze point at (401.42, 458.62) @ 11:13:27.97 on A
+
+Gaze point at (123.47, 276.81) @ 11:13:28.14 on A
+
+Gaze point at (123.90, 273.42) @ 11:13:28.29 on A
+
+Gaze point at (121.60, 464.50) @ 11:13:28.46 on A
+
+Gaze point at (140.56, 381.08) @ 11:13:28.62 on A
+
+Gaze point at (134.62, 340.08) @ 11:13:28.79 on A
+
+Gaze point at (139.23, 327.35) @ 11:13:28.96 on A
+
+Gaze point at (156.09, 289.76) @ 11:13:29.12 on A
+
+Gaze point at (157.24, 280.43) @ 11:13:29.29 on A
+
+Gaze point at (337.25, 507.52) @ 11:13:29.45 on A
+
+Gaze point at (332.59, 502.95) @ 11:13:29.61 on A
+
+Gaze point at (337.00, 504.46) @ 11:13:29.77 on A
+
+Gaze point at (282.52, 613.88) @ 11:13:29.92 on A
+
+Gaze point at (247.38, 605.16) @ 11:13:30.09 on A
+
+Gaze point at (246.70, 577.03) @ 11:13:30.25 on A
+
+Gaze point at (251.24, 579.49) @ 11:13:30.42 on A
+
+Gaze point at (260.93, 555.05) @ 11:13:30.59 on A
+
+Gaze point at (365.50, 607.03) @ 11:13:30.74 on A
+
+Gaze point at (365.04, 612.84) @ 11:13:30.91 on A
+
+Gaze point at (388.10, 646.62) @ 11:13:31.08 on A
+
+Gaze point at (375.49, 644.08) @ 11:13:31.24 on A
+
+Gaze point at (379.08, 643.42) @ 11:13:31.41 on A
+
+Gaze point at (382.99, 632.79) @ 11:13:31.58 on A
+
+Gaze point at (419.04, 654.38) @ 11:13:31.74 on A
+
+Gaze point at (418.64, 640.08) @ 11:13:31.90 on A
+
+Gaze point at (408.57, 633.17) @ 11:13:32.05 on A
+
+Gaze point at (327.36, 633.08) @ 11:13:32.22 on A
+
+Gaze point at (305.48, 621.37) @ 11:13:32.39 on A
+
+Gaze point at (321.73, 619.11) @ 11:13:32.54 on A
+
+Gaze point at (325.72, 610.81) @ 11:13:32.72 on A
+
+Gaze point at (326.53, 589.89) @ 11:13:32.90 on A
+
+Gaze point at (302.80, 603.99) @ 11:13:33.13 on A
+
+Gaze point at (236.12, 606.35) @ 11:13:33.28 on A
+
+Gaze point at (237.19, 615.91) @ 11:13:33.44 on A
+
+Gaze point at (193.71, 643.89) @ 11:13:33.61 on A
+
+Gaze point at (179.82, 658.16) @ 11:13:33.78 on A
+
+Gaze point at (253.98, 678.25) @ 11:13:33.94 on A
+
+Gaze point at (348.33, 713.17) @ 11:13:34.11 on A
+
+Gaze point at (451.16, 727.15) @ 11:13:34.27 on A
+
+Gaze point at (423.42, 689.41) @ 11:13:34.44 on A
+
+Gaze point at (326.46, 617.26) @ 11:13:34.61 on A
+
+Gaze point at (309.53, 600.62) @ 11:13:34.77 on A
+
+Gaze point at (268.60, 571.20) @ 11:13:34.94 on A
+
+Gaze point at (182.67, 583.45) @ 11:13:35.11 on A
+
+Gaze point at (173.11, 578.03) @ 11:13:35.27 on A
+
+Gaze point at (114.37, 560.50) @ 11:13:35.44 on A
+
+Gaze point at (138.60, 567.12) @ 11:13:35.61 on A
+
+Gaze point at (180.29, 590.43) @ 11:13:35.77 on A
+
+Gaze point at (219.65, 611.10) @ 11:13:35.94 on A
+
+Gaze point at (205.31, 635.90) @ 11:13:36.11 on A
+
+Gaze point at (211.46, 632.38) @ 11:13:36.26 on A
+
+Gaze point at (218.98, 628.50) @ 11:13:36.41 on A
+
+Gaze point at (235.48, 627.95) @ 11:13:36.57 on A
+
+Gaze point at (240.11, 621.87) @ 11:13:36.74 on A
+
+Gaze point at (238.50, 620.05) @ 11:13:36.88 on A
+
+Gaze point at (235.81, 620.26) @ 11:13:37.05 on A
+
+Gaze point at (221.23, 608.74) @ 11:13:37.22 on A
+
+Gaze point at (225.55, 611.87) @ 11:13:37.38 on A
+
+Gaze point at (213.86, 609.43) @ 11:13:37.55 on A
+
+Gaze point at (209.84, 603.38) @ 11:13:37.72 on A
+
+Gaze point at (220.44, 608.78) @ 11:13:37.87 on A
+
+Gaze point at (227.42, 617.30) @ 11:13:38.03 on A
+
+Gaze point at (236.79, 617.68) @ 11:13:38.19 on A
+
+Gaze point at (233.55, 612.71) @ 11:13:38.35 on A
+
+Gaze point at (232.16, 608.44) @ 11:13:38.51 on A
+
+Gaze point at (228.70, 556.13) @ 11:13:38.68 on A
+
+Gaze point at (230.30, 551.56) @ 11:13:38.84 on A
+
+Gaze point at (226.70, 537.35) @ 11:13:39.00 on A
+
+Gaze point at (220.81, 529.28) @ 11:13:39.17 on A
+
+Gaze point at (225.99, 528.69) @ 11:13:39.34 on A
+
+Gaze point at (230.02, 534.36) @ 11:13:39.50 on A
+
+Gaze point at (224.18, 537.41) @ 11:13:39.67 on A
+
+Gaze point at (238.29, 536.86) @ 11:13:39.83 on A
+
+Gaze point at (794.89, 236.19) @ 11:13:40.16 on A
+
+Gaze point at (832.23, 168.01) @ 11:13:40.33 on A
+
+Gaze point at (855.99, 142.35) @ 11:13:40.50 on A
+
+Gaze point at (882.31, 147.33) @ 11:13:40.67 on A
+
+Gaze point at (345.85, 445.21) @ 11:13:40.83 on A
+
+Gaze point at (223.01, 522.04) @ 11:13:41.03 on A
+
+Gaze point at (212.11, 562.24) @ 11:13:41.20 on A
+
+Gaze point at (217.95, 553.33) @ 11:13:41.36 on A
+
+Gaze point at (209.76, 539.99) @ 11:13:41.53 on A
+
+Gaze point at (223.08, 559.03) @ 11:13:41.70 on A
+
+Gaze point at (232.83, 566.03) @ 11:13:41.86 on A
+
+Gaze point at (232.47, 577.00) @ 11:13:42.03 on A
+
+Gaze point at (246.15, 584.18) @ 11:13:42.19 on A
+
+Gaze point at (239.74, 589.98) @ 11:13:42.36 on A
+
+Gaze point at (243.90, 589.96) @ 11:13:42.53 on A
+
+Gaze point at (235.41, 585.68) @ 11:13:42.70 on A
+
+Gaze point at (233.49, 579.07) @ 11:13:42.85 on A
+
+Gaze point at (228.06, 577.68) @ 11:13:43.02 on A
+
+Gaze point at (236.74, 586.59) @ 11:13:43.18 on A
+
+Gaze point at (230.03, 590.34) @ 11:13:43.33 on A
+
+Gaze point at (237.77, 605.66) @ 11:13:43.50 on A
+
+Gaze point at (225.36, 623.47) @ 11:13:43.65 on A
+
+Gaze point at (221.58, 618.85) @ 11:13:43.82 on A
+
+Gaze point at (220.30, 618.19) @ 11:13:43.98 on A
+
+Gaze point at (221.45, 617.82) @ 11:13:44.15 on A
+
+Gaze point at (611.76, 428.77) @ 11:13:44.30 on A
+
+Gaze point at (831.35, 254.75) @ 11:13:44.46 on A
+
+Gaze point at (802.74, 270.73) @ 11:13:44.62 on A
+
+Gaze point at (869.41, 179.25) @ 11:13:44.78 on A
+
+Gaze point at (862.10, 201.58) @ 11:13:44.95 on A
+
+Gaze point at (799.99, 320.54) @ 11:13:45.11 on A
+
+Gaze point at (785.40, 360.43) @ 11:13:45.27 on A
+
+Gaze point at (781.70, 358.18) @ 11:13:45.44 on A
+
+Gaze point at (790.61, 348.99) @ 11:13:45.59 on A
+
+Gaze point at (955.61, 486.28) @ 11:13:45.76 on A
+
+Gaze point at (973.21, 474.17) @ 11:13:45.92 on A
+
+Gaze point at (814.50, 239.97) @ 11:13:46.08 on A
+
+Gaze point at (814.79, 233.63) @ 11:13:46.25 on A
+
+Gaze point at (828.55, 185.76) @ 11:13:46.41 on A
+
+Gaze point at (842.47, 160.64) @ 11:13:46.57 on A
+
+Gaze point at (984.95, 306.05) @ 11:13:46.73 on A
+
+Gaze point at (1023.87, 357.54) @ 11:13:46.89 on A
+
+Gaze point at (838.36, 160.65) @ 11:13:47.06 on A
+
+Gaze point at (823.65, 195.18) @ 11:13:47.20 on A
+
+Gaze point at (323.03, 214.27) @ 11:13:47.37 on A
+
+Gaze point at (299.78, 223.34) @ 11:13:47.53 on A
+
+Gaze point at (288.93, 202.30) @ 11:13:47.69 on A
+
+Gaze point at (407.50, 407.97) @ 11:13:47.86 on A
+
+Gaze point at (414.43, 475.50) @ 11:13:48.03 on A
+
+Gaze point at (432.99, 536.28) @ 11:13:48.18 on A
+
+Gaze point at (521.19, 586.15) @ 11:13:48.35 on A
+
+Gaze point at (790.96, 409.33) @ 11:13:48.49 on A
+
+Gaze point at (884.38, 363.40) @ 11:13:48.65 on A
+
+Gaze point at (982.36, 452.98) @ 11:13:48.81 on A
+
+Gaze point at (965.05, 471.70) @ 11:13:48.97 on A
+
+Gaze point at (824.37, 339.33) @ 11:13:49.13 on A
+
+Gaze point at (801.32, 340.45) @ 11:13:49.29 on A
+
+Gaze point at (793.24, 354.38) @ 11:13:49.46 on A
+
+Gaze point at (807.05, 333.53) @ 11:13:49.63 on A
+
+Gaze point at (809.17, 310.08) @ 11:13:49.78 on A
+
+Gaze point at (816.99, 278.24) @ 11:13:49.95 on A
+
+Gaze point at (1160.66, 443.86) @ 11:13:50.10 on A
+
+Gaze point at (1177.49, 440.83) @ 11:13:50.27 on A
+
+Gaze point at (1293.93, 242.82) @ 11:13:50.44 on A
+
+Gaze point at (1283.47, 255.10) @ 11:13:50.60 on A
+
+Gaze point at (904.95, 393.04) @ 11:13:50.77 on A
+
+Gaze point at (988.81, 452.99) @ 11:13:50.93 on A
+
+Gaze point at (1224.48, 221.41) @ 11:13:51.10 on A
+
+Gaze point at (1263.51, 180.87) @ 11:13:51.26 on A
+
+Gaze point at (1259.41, 178.50) @ 11:13:51.40 on A
+
+Gaze point at (983.06, 189.19) @ 11:13:51.57 on A
+
+Gaze point at (964.65, 192.68) @ 11:13:51.72 on A
+
+Gaze point at (877.55, 227.04) @ 11:13:51.89 on A
+
+Gaze point at (842.83, 241.45) @ 11:13:52.04 on A
+
+Gaze point at (816.73, 273.53) @ 11:13:52.19 on A
+
+Gaze point at (726.18, 291.36) @ 11:13:52.35 on A
+
+Gaze point at (452.77, 348.33) @ 11:13:52.51 on A
+
+Gaze point at (426.04, 256.54) @ 11:13:52.67 on A
+
+Gaze point at (416.76, 206.16) @ 11:13:52.83 on A
+
+Gaze point at (414.28, 208.22) @ 11:13:52.99 on A
+
+Gaze point at (434.64, 437.51) @ 11:13:53.15 on A
+
+Gaze point at (331.29, 467.49) @ 11:13:53.32 on A
+
+Gaze point at (277.21, 490.79) @ 11:13:53.49 on A
+
+Gaze point at (263.13, 500.10) @ 11:13:53.65 on A
+
+Gaze point at (800.16, 269.41) @ 11:13:53.82 on A
+
+Gaze point at (798.06, 266.26) @ 11:13:53.99 on A
+
+Gaze point at (818.46, 277.93) @ 11:13:54.14 on A
+
+Gaze point at (818.35, 277.54) @ 11:13:54.31 on A
+
+Gaze point at (817.20, 278.79) @ 11:13:54.47 on A
+
+Gaze point at (816.85, 285.32) @ 11:13:54.61 on A
+
+Gaze point at (818.89, 284.09) @ 11:13:54.78 on A
+
+Gaze point at (817.48, 280.91) @ 11:13:54.93 on A
+
+Gaze point at (806.26, 228.74) @ 11:13:55.10 on A
+
+Gaze point at (478.68, 241.31) @ 11:13:55.26 on A
+
+Gaze point at (453.12, 246.76) @ 11:13:55.43 on A
+
+Gaze point at (855.29, 332.68) @ 11:13:55.60 on A
+
+Gaze point at (813.49, 285.10) @ 11:13:55.76 on A
+
+Gaze point at (709.45, 273.53) @ 11:13:55.93 on A
+
+Gaze point at (183.90, 242.84) @ 11:13:56.10 on A
+
+Gaze point at (91.14, 234.96) @ 11:13:56.26 on A
+
+Gaze point at (59.62, 228.67) @ 11:13:56.43 on A
+
+Gaze point at (22.28, 77.70) @ 11:13:56.59 on A
+
+Gaze point at (35.56, 31.04) @ 11:13:56.75 on A
+
+Gaze point at (27.27, -47.97) @ 11:13:56.92 on A
+
+Gaze point at (85.73, 178.66) @ 11:13:57.08 on A
+
+Gaze point at (157.10, 180.54) @ 11:13:57.25 on A
+
+Gaze point at (-51.51, 246.67) @ 11:13:57.42 on A
+
+Gaze point at (-47.78, 287.25) @ 11:13:57.57 on A
+
+Gaze point at (-11.17, 322.92) @ 11:13:57.74 on A
+
+Gaze point at (782.54, 295.28) @ 11:13:57.91 on A
+
+Gaze point at (805.48, 314.34) @ 11:13:58.07 on A
+
+Gaze point at (840.83, 366.28) @ 11:13:58.24 on A
+
+Gaze point at (838.01, 373.95) @ 11:13:58.41 on A
+
+Gaze point at (206.40, 401.68) @ 11:13:58.57 on A
+
+Gaze point at (208.18, 410.14) @ 11:13:58.74 on A
+
+Gaze point at (235.08, 361.06) @ 11:13:58.91 on A
+
+Gaze point at (437.31, 371.44) @ 11:13:59.06 on A
+
+Gaze point at (431.57, 372.38) @ 11:13:59.20 on A
+
+Gaze point at (420.34, 383.06) @ 11:13:59.37 on A
+
+Gaze point at (411.36, 364.80) @ 11:13:59.54 on A
+
+Gaze point at (410.16, 364.67) @ 11:13:59.70 on A
+
+Gaze point at (502.22, 376.38) @ 11:13:59.87 on A
+
+Gaze point at (503.23, 374.08) @ 11:14:00.04 on A
+
+Gaze point at (508.74, 404.32) @ 11:14:00.19 on A
+
+Gaze point at (512.58, 424.85) @ 11:14:00.36 on A
+
+Gaze point at (123.39, 554.01) @ 11:14:00.52 on A
+
+Gaze point at (116.67, 574.74) @ 11:14:00.68 on A
+
+Gaze point at (94.76, 613.04) @ 11:14:00.84 on A
+
+Gaze point at (134.27, 692.03) @ 11:14:01.00 on A
+
+Gaze point at (175.83, 614.93) @ 11:14:01.17 on A
+
+Gaze point at (175.89, 604.80) @ 11:14:01.34 on A
+
+Gaze point at (212.70, 590.45) @ 11:14:01.50 on A
+
+Gaze point at (206.02, 587.51) @ 11:14:01.67 on A
+
+Gaze point at (110.48, 543.63) @ 11:14:01.84 on A
+
+Gaze point at (404.38, 376.92) @ 11:14:01.98 on A
+
+Gaze point at (737.52, 251.67) @ 11:14:02.15 on A
+
+Gaze point at (796.78, 274.68) @ 11:14:02.31 on A
+
+Gaze point at (808.67, 241.80) @ 11:14:02.48 on A
+
+Gaze point at (799.93, 237.17) @ 11:14:02.65 on A
+
+Gaze point at (284.43, 185.01) @ 11:14:02.81 on A
+
+Gaze point at (200.26, 174.92) @ 11:14:02.98 on A
+
+Gaze point at (210.89, 280.47) @ 11:14:03.13 on A
+
+Gaze point at (211.86, 303.35) @ 11:14:03.29 on A
+
+Gaze point at (213.44, 389.39) @ 11:14:03.46 on A
+
+Gaze point at (210.13, 382.32) @ 11:14:03.62 on A
+
+Gaze point at (176.70, 211.96) @ 11:14:03.78 on A
+
+Gaze point at (137.03, 130.21) @ 11:14:03.93 on A
+
+Gaze point at (78.10, 101.10) @ 11:14:04.10 on A
+
+Gaze point at (79.68, 104.34) @ 11:14:04.26 on A
+
+Gaze point at (58.72, 103.34) @ 11:14:04.42 on A
+
+Gaze point at (63.69, 111.90) @ 11:14:04.59 on A
+
+Gaze point at (69.16, 127.16) @ 11:14:04.75 on A
+
+Gaze point at (81.33, 162.14) @ 11:14:04.91 on A
+
+Gaze point at (81.19, 161.00) @ 11:14:05.08 on A
+
+Gaze point at (153.20, 173.59) @ 11:14:05.25 on A
+
+Gaze point at (816.54, 244.33) @ 11:14:05.41 on A
+
+Gaze point at (815.65, 262.16) @ 11:14:05.58 on A
+
+Gaze point at (811.93, 258.76) @ 11:14:05.75 on A
+
+Gaze point at (20.84, 172.16) @ 11:14:05.91 on A
+
+Gaze point at (40.17, 184.58) @ 11:14:06.08 on A
+
+Gaze point at (80.38, 197.50) @ 11:14:06.23 on A
+
+Gaze point at (62.23, 168.71) @ 11:14:06.40 on A
+
+Gaze point at (55.43, 142.51) @ 11:14:06.56 on A
+
+Gaze point at (77.95, 104.67) @ 11:14:06.73 on A
+
+Gaze point at (106.69, 82.70) @ 11:14:06.90 on A
+
+Gaze point at (106.36, 67.62) @ 11:14:07.05 on A
+
+Gaze point at (104.43, 48.38) @ 11:14:07.22 on A
+
+Gaze point at (117.83, 77.92) @ 11:14:07.38 on A
+
+Gaze point at (118.28, 81.89) @ 11:14:07.54 on A
+
+Gaze point at (117.51, 38.43) @ 11:14:07.71 on A
+
+Gaze point at (116.56, 62.91) @ 11:14:07.86 on A
+
+Gaze point at (124.06, 151.23) @ 11:14:08.03 on A
+
+Gaze point at (123.09, 146.65) @ 11:14:08.19 on A
+
+Gaze point at (119.83, 205.56) @ 11:14:08.35 on A
+
+Gaze point at (127.68, 224.45) @ 11:14:08.51 on A
+
+Gaze point at (147.73, 235.68) @ 11:14:08.68 on A
+
+Gaze point at (406.75, 177.95) @ 11:14:08.84 on A
+
+Gaze point at (361.88, 150.15) @ 11:14:09.01 on A
+
+Gaze point at (360.05, 150.11) @ 11:14:09.16 on A
+
+Gaze point at (301.28, 160.39) @ 11:14:09.33 on A
+
+Gaze point at (298.93, 151.41) @ 11:14:09.50 on A
+
+Gaze point at (330.78, 159.44) @ 11:14:09.66 on A
+
+Gaze point at (377.97, 144.04) @ 11:14:09.83 on A
+
+Gaze point at (380.60, 133.44) @ 11:14:10.00 on A
+
+Gaze point at (386.25, 146.40) @ 11:14:10.15 on A
+
+Gaze point at (298.30, 100.28) @ 11:14:10.32 on A
+
+Gaze point at (274.37, 89.84) @ 11:14:10.49 on A
+
+Gaze point at (264.73, 92.90) @ 11:14:10.65 on A
+
+Gaze point at (212.18, 68.30) @ 11:14:10.82 on A
+
+Gaze point at (183.58, 70.37) @ 11:14:10.98 on A
+
+Gaze point at (159.61, 69.87) @ 11:14:11.15 on A
+
+Gaze point at (472.59, 178.46) @ 11:14:11.31 on A
+
+Gaze point at (472.53, 174.94) @ 11:14:11.45 on A
+
+Gaze point at (513.21, 269.92) @ 11:14:11.61 on A
+
+Gaze point at (515.72, 281.49) @ 11:14:11.77 on A
+
+Gaze point at (412.82, 318.62) @ 11:14:11.94 on A
+
+Gaze point at (403.62, 307.55) @ 11:14:12.09 on A
+
+Gaze point at (404.22, 291.50) @ 11:14:12.25 on A
+
+Gaze point at (822.28, 244.37) @ 11:14:12.41 on A
+
+Gaze point at (806.56, 248.18) @ 11:14:12.58 on A
+
+Gaze point at (814.77, 214.30) @ 11:14:12.74 on A
+
+Gaze point at (133.84, 356.85) @ 11:14:13.02 on A
+
+Gaze point at (139.58, 346.82) @ 11:14:13.18 on A
+
+Gaze point at (144.50, 369.76) @ 11:14:13.32 on A
+
+Gaze point at (460.70, 343.18) @ 11:14:13.47 on A
+
+Gaze point at (760.20, 230.51) @ 11:14:13.64 on A
+
+Gaze point at (821.78, 235.22) @ 11:14:13.79 on A
+
+Gaze point at (820.80, 202.64) @ 11:14:13.96 on A
+
+Gaze point at (823.41, 217.91) @ 11:14:14.13 on A
+
+Gaze point at (137.15, 454.22) @ 11:14:14.29 on A
+
+Gaze point at (122.29, 472.29) @ 11:14:14.46 on A
+
+Gaze point at (54.58, 472.49) @ 11:14:14.62 on A
+
+Gaze point at (47.78, 480.95) @ 11:14:14.78 on A
+
+Gaze point at (33.98, 525.33) @ 11:14:14.95 on A
+
+Gaze point at (70.65, 601.07) @ 11:14:15.11 on A
+
+Gaze point at (67.45, 603.53) @ 11:14:15.27 on A
+
+Gaze point at (49.13, 592.81) @ 11:14:15.44 on A
+
+Gaze point at (31.06, 591.75) @ 11:14:15.60 on A
+
+Gaze point at (135.09, 632.57) @ 11:14:15.77 on A
+
+Gaze point at (149.88, 637.19) @ 11:14:15.94 on A
+
+Gaze point at (127.56, 620.57) @ 11:14:16.10 on A
+
+Gaze point at (135.68, 623.07) @ 11:14:16.27 on A
+
+Gaze point at (383.12, 643.45) @ 11:14:16.44 on A
+
+Gaze point at (470.87, 659.45) @ 11:14:16.60 on A
+
+Gaze point at (472.18, 661.31) @ 11:14:16.77 on A
+
+Gaze point at (516.02, 459.70) @ 11:14:16.92 on A
+
+Gaze point at (523.97, 450.65) @ 11:14:17.09 on A
+
+Gaze point at (508.20, 441.14) @ 11:14:17.26 on A
+
+Gaze point at (548.94, 389.03) @ 11:14:17.42 on A
+
+Gaze point at (531.02, 404.30) @ 11:14:17.59 on A
+
+Gaze point at (528.76, 431.11) @ 11:14:17.76 on A
+
+Gaze point at (530.77, 432.68) @ 11:14:17.91 on A
+
+Gaze point at (553.64, 447.79) @ 11:14:18.06 on A
+
+Gaze point at (809.67, 352.36) @ 11:14:18.21 on A
+
+Gaze point at (835.92, 339.63) @ 11:14:18.37 on A
+
+Gaze point at (808.10, 356.55) @ 11:14:18.52 on A
+
+Gaze point at (806.11, 360.42) @ 11:14:18.69 on A
+
+Gaze point at (730.70, 342.81) @ 11:14:18.85 on A
+
+Gaze point at (727.92, 347.80) @ 11:14:19.00 on A
+
+Gaze point at (746.45, 347.00) @ 11:14:19.19 on A
+
+Gaze point at (865.46, 304.07) @ 11:14:19.36 on A
+
+Gaze point at (827.62, 292.25) @ 11:14:19.52 on A
+
+Gaze point at (763.97, 262.84) @ 11:14:19.68 on A
+
+Gaze point at (721.94, 250.03) @ 11:14:19.84 on A
+
+Gaze point at (442.19, 286.59) @ 11:14:20.01 on A
+
+Gaze point at (554.34, 257.70) @ 11:14:20.17 on A
+
+Gaze point at (791.63, 229.10) @ 11:14:20.31 on A
+
+Gaze point at (903.06, 257.67) @ 11:14:20.47 on A
+
+Gaze point at (961.29, 314.32) @ 11:14:20.62 on A
+
+Gaze point at (821.80, 222.69) @ 11:14:20.78 on A
+
+Gaze point at (717.03, 233.87) @ 11:14:20.94 on A
+
+Gaze point at (732.82, 115.76) @ 11:14:21.11 on A
+
+Gaze point at (737.47, 113.64) @ 11:14:21.28 on A
+
+Gaze point at (816.65, 171.57) @ 11:14:21.43 on A
+
+Gaze point at (488.42, 175.06) @ 11:14:21.60 on A
+
+Gaze point at (207.98, 184.69) @ 11:14:21.77 on A
+
+Gaze point at (797.35, 298.42) @ 11:14:21.93 on A
+
+Gaze point at (800.47, 264.73) @ 11:14:22.10 on A
+
+Gaze point at (266.44, 209.92) @ 11:14:22.26 on A
+
+Gaze point at (216.65, 167.08) @ 11:14:22.43 on A
+
+Gaze point at (299.94, 185.98) @ 11:14:22.60 on A
+
+Gaze point at (307.16, 191.20) @ 11:14:22.76 on A
+
+Gaze point at (314.49, 205.97) @ 11:14:22.93 on A
+
+Gaze point at (157.80, 239.64) @ 11:14:23.08 on A
+
+Gaze point at (161.17, 242.62) @ 11:14:23.25 on A
+
+Gaze point at (389.55, 235.83) @ 11:14:23.42 on A
+
+Gaze point at (703.69, 207.54) @ 11:14:23.58 on A
+
+Gaze point at (802.08, 195.80) @ 11:14:23.75 on A
+
+Gaze point at (808.05, 248.76) @ 11:14:23.91 on A
+
+Gaze point at (794.97, 221.64) @ 11:14:24.07 on A
+
+Gaze point at (235.34, 266.99) @ 11:14:24.23 on A
+
+Gaze point at (191.05, 283.43) @ 11:14:24.38 on A
+
+Gaze point at (86.40, 298.77) @ 11:14:24.55 on A
+
+Gaze point at (48.53, 220.65) @ 11:14:24.72 on A
+
+Gaze point at (63.98, 172.13) @ 11:14:24.88 on A
+
+Gaze point at (33.11, 150.16) @ 11:14:25.05 on A
+
+Gaze point at (26.10, 197.22) @ 11:14:25.22 on A
+
+Gaze point at (-19.74, 128.01) @ 11:14:25.38 on A
+
+Gaze point at (-6.65, 106.15) @ 11:14:25.54 on A
+
+Gaze point at (-19.83, 109.73) @ 11:14:25.70 on A
+
+Gaze point at (41.45, 106.87) @ 11:14:25.84 on A
+
+Gaze point at (58.55, 137.18) @ 11:14:26.01 on A
+
+Gaze point at (96.04, 119.21) @ 11:14:26.17 on A
+
+Gaze point at (100.14, 178.26) @ 11:14:26.34 on A
+
+Gaze point at (76.24, 25.46) @ 11:14:26.51 on A
+
+Gaze point at (65.57, -15.00) @ 11:14:26.66 on A
+
+Gaze point at (33.14, 2.19) @ 11:14:26.82 on A
+
+Gaze point at (39.60, 16.61) @ 11:14:26.98 on A
+
+Gaze point at (24.12, 27.38) @ 11:14:27.14 on A
+
+Gaze point at (31.15, 38.09) @ 11:14:27.28 on A
+
+Gaze point at (26.35, 34.06) @ 11:14:27.45 on A
+
+Gaze point at (49.42, 81.30) @ 11:14:27.60 on A
+
+Gaze point at (43.37, 58.69) @ 11:14:27.77 on A
+
+Gaze point at (30.55, 38.82) @ 11:14:27.94 on A
+
+Gaze point at (14.14, 39.44) @ 11:14:28.10 on A
+
+Gaze point at (10.80, 16.70) @ 11:14:28.26 on A
+
+Gaze point at (-22.46, 1.43) @ 11:14:28.43 on A
+
+Gaze point at (30.80, 56.13) @ 11:14:28.59 on A
+
+Gaze point at (14.02, 31.94) @ 11:14:28.76 on A
+
+Gaze point at (32.97, 32.71) @ 11:14:28.93 on A
+
+Gaze point at (29.31, 19.48) @ 11:14:29.08 on A
+
+Gaze point at (12.38, -13.33) @ 11:14:29.25 on A
+
+Gaze point at (23.41, -31.36) @ 11:14:29.41 on A
+
+Gaze point at (799.88, 180.21) @ 11:14:29.58 on A
+
+Gaze point at (813.03, 225.36) @ 11:14:29.75 on A
+
+Gaze point at (813.79, 240.86) @ 11:14:29.91 on A
+
+Gaze point at (372.30, 137.54) @ 11:14:30.08 on A
+
+Gaze point at (61.11, 73.03) @ 11:14:30.25 on A
+
+Gaze point at (45.99, 63.52) @ 11:14:30.41 on A
+
+Gaze point at (43.46, 52.52) @ 11:14:30.58 on A
+
+Gaze point at (47.36, 61.76) @ 11:14:30.74 on A
+
+Gaze point at (82.89, 66.36) @ 11:14:30.90 on A
+
+Gaze point at (81.24, 42.18) @ 11:14:31.07 on A
+
+Gaze point at (75.40, 26.60) @ 11:14:31.23 on A
+
+Gaze point at (115.11, 83.26) @ 11:14:31.40 on A
+
+Gaze point at (118.39, 90.99) @ 11:14:31.57 on A
+
+Gaze point at (137.67, 87.44) @ 11:14:31.73 on A
+
+Gaze point at (136.11, 122.62) @ 11:14:31.90 on A
+
+Gaze point at (135.55, 131.65) @ 11:14:32.07 on A
+
+Gaze point at (129.13, 132.30) @ 11:14:32.22 on A
+
+Gaze point at (123.65, 121.81) @ 11:14:32.39 on A
+
+Gaze point at (120.86, 113.42) @ 11:14:32.56 on A
+
+Gaze point at (208.34, 270.10) @ 11:14:32.71 on A
+
+Gaze point at (195.40, 322.51) @ 11:14:32.88 on A
+
+Gaze point at (173.94, 71.02) @ 11:14:33.04 on A
+
+Gaze point at (172.66, 72.76) @ 11:14:33.21 on A
+
+Gaze point at (229.80, 62.82) @ 11:14:33.38 on A
+
+Gaze point at (151.02, 52.94) @ 11:14:33.54 on A
+
+Gaze point at (124.40, 39.25) @ 11:14:33.71 on A
+
+Gaze point at (100.79, 54.32) @ 11:14:33.87 on A
+
+Gaze point at (113.43, 52.22) @ 11:14:34.01 on A
+
+Gaze point at (190.70, 76.18) @ 11:14:34.18 on A
+
+Gaze point at (249.66, 110.22) @ 11:14:34.34 on A
+
+Gaze point at (300.94, 107.13) @ 11:14:34.50 on A
+
+Gaze point at (302.42, 98.33) @ 11:14:34.67 on A
+
+Gaze point at (299.50, 107.65) @ 11:14:34.82 on A
+
+Gaze point at (307.91, 162.75) @ 11:14:34.98 on A
+
+Gaze point at (343.12, 178.52) @ 11:14:35.14 on A
+
+Gaze point at (346.54, 182.66) @ 11:14:35.31 on A
+
+Gaze point at (289.21, 168.35) @ 11:14:35.47 on A
+
+Gaze point at (266.87, 173.03) @ 11:14:35.63 on A
+
+Gaze point at (258.24, 163.23) @ 11:14:35.80 on A
+
+Gaze point at (246.03, 137.87) @ 11:14:35.95 on A
+
+Gaze point at (242.12, 136.58) @ 11:14:36.12 on A
+
+Gaze point at (204.49, 125.81) @ 11:14:36.27 on A
+
+Gaze point at (286.09, 119.79) @ 11:14:36.44 on A
+
+Gaze point at (488.89, 102.42) @ 11:14:36.61 on A
+
+Gaze point at (506.53, 244.26) @ 11:14:36.77 on A
+
+Gaze point at (508.74, 253.00) @ 11:14:36.94 on A
+
+Gaze point at (479.87, 309.48) @ 11:14:37.11 on A
+
+Gaze point at (464.61, 313.75) @ 11:14:37.27 on A
+
+Gaze point at (472.79, 299.47) @ 11:14:37.44 on A
+
+Gaze point at (449.53, 423.13) @ 11:14:37.66 on A
+
+Gaze point at (502.05, 412.06) @ 11:14:37.90 on A
+
+Gaze point at (385.23, 666.35) @ 11:14:38.05 on A
+
+Gaze point at (443.81, 641.45) @ 11:14:38.22 on A
+
+Gaze point at (346.69, 649.27) @ 11:14:38.39 on A
+
+Gaze point at (343.80, 655.93) @ 11:14:38.55 on A
+
+Gaze point at (343.77, 654.05) @ 11:14:38.72 on A
+
+Gaze point at (169.43, 678.31) @ 11:14:38.89 on A
+
+Gaze point at (94.44, 664.87) @ 11:14:39.04 on A
+
+Gaze point at (33.31, 629.89) @ 11:14:39.19 on A
+
+Gaze point at (35.31, 515.44) @ 11:14:39.36 on A
+
+Gaze point at (66.70, 469.92) @ 11:14:39.53 on A
+
+Gaze point at (51.12, 390.49) @ 11:14:39.69 on A
+
+Gaze point at (52.83, 353.63) @ 11:14:39.85 on A
+
+Gaze point at (63.75, 245.96) @ 11:14:40.02 on A
+
+Gaze point at (41.19, 148.50) @ 11:14:40.18 on A
+
+Gaze point at (80.68, 216.05) @ 11:14:40.34 on A
+
+Gaze point at (89.33, 166.14) @ 11:14:40.53 on A
+
+Gaze point at (86.92, 167.16) @ 11:14:40.68 on A
+
+Gaze point at (47.56, 171.92) @ 11:14:40.95 on A
+
+Gaze point at (48.37, 179.53) @ 11:14:41.10 on A
+
+Gaze point at (39.44, 158.47) @ 11:14:41.26 on A
+
+Gaze point at (50.91, 152.45) @ 11:14:41.43 on A
+
+Gaze point at (41.61, 125.34) @ 11:14:41.59 on A
+
+Gaze point at (61.88, 97.81) @ 11:14:41.83 on A
+
+Gaze point at (72.14, 100.08) @ 11:14:42.01 on A
+
+Gaze point at (81.31, 107.43) @ 11:14:42.18 on A
+
+Gaze point at (65.48, 82.89) @ 11:14:42.35 on A
+
+Gaze point at (52.38, 65.65) @ 11:14:42.50 on A
+
+Gaze point at (523.75, 153.15) @ 11:14:42.67 on A
+
+Gaze point at (807.81, 245.36) @ 11:14:42.90 on A
+
+Gaze point at (798.20, 209.40) @ 11:14:43.07 on A
+
+Gaze point at (804.39, 203.65) @ 11:14:43.24 on A
+
+Gaze point at (792.09, 217.11) @ 11:14:43.40 on A
+
+Gaze point at (57.99, 82.18) @ 11:14:43.76 on A
+
+Gaze point at (62.09, 10.99) @ 11:14:43.99 on A
+
+Gaze point at (89.91, 106.78) @ 11:14:44.18 on A
+
+Gaze point at (104.48, 142.89) @ 11:14:44.37 on A
+
+Gaze point at (63.35, 90.75) @ 11:14:44.66 on A
+
+Gaze point at (135.21, 116.81) @ 11:14:44.86 on A
+
+Gaze point at (151.36, 119.55) @ 11:14:45.03 on A
+
+Gaze point at (172.24, 136.81) @ 11:14:45.19 on A
+
+Gaze point at (165.66, 163.41) @ 11:14:45.36 on A
+
+Gaze point at (184.45, 177.39) @ 11:14:45.51 on A
+
+Gaze point at (142.24, 181.10) @ 11:14:45.70 on A
+
+Gaze point at (154.86, 201.49) @ 11:14:45.90 on A
+
+Gaze point at (134.60, 207.20) @ 11:14:46.13 on A
+
+Gaze point at (157.82, 181.25) @ 11:14:46.30 on A
+
+Gaze point at (717.76, 296.00) @ 11:14:46.49 on A
+
+Gaze point at (768.03, 289.75) @ 11:14:46.66 on A
+
+Gaze point at (796.57, 302.99) @ 11:14:46.82 on A
+
+Gaze point at (147.08, 127.18) @ 11:14:47.06 on A
+
+Gaze point at (117.67, 135.83) @ 11:14:47.22 on A
+
+Gaze point at (150.27, 175.67) @ 11:14:47.49 on A
+
+Gaze point at (182.46, 206.80) @ 11:14:47.66 on A
+
+Gaze point at (172.36, 216.44) @ 11:14:47.81 on A
+
+Gaze point at (176.48, 243.36) @ 11:14:47.98 on A
+
+Gaze point at (147.52, 240.29) @ 11:14:48.19 on A
+
+Gaze point at (161.84, 156.25) @ 11:14:48.36 on A
+
+Gaze point at (272.86, 131.24) @ 11:14:48.52 on A
+
+Gaze point at (228.64, 79.14) @ 11:14:48.69 on A
+
+Gaze point at (104.94, 85.19) @ 11:14:48.88 on A
+
+Gaze point at (125.51, 124.54) @ 11:14:49.34 on A
+
+Gaze point at (793.16, 272.03) @ 11:14:49.51 on A
+
+Gaze point at (819.75, 297.33) @ 11:14:49.68 on A
+
+Gaze point at (868.47, 331.16) @ 11:14:49.83 on A
+
+Gaze point at (267.51, 361.68) @ 11:14:50.06 on A
+
+Gaze point at (267.12, 377.34) @ 11:14:50.23 on A
+
+Gaze point at (281.55, 413.54) @ 11:14:50.40 on A
+
+Gaze point at (267.18, 423.89) @ 11:14:50.70 on A
+
+Gaze point at (234.94, 392.24) @ 11:14:50.84 on A
+
+Gaze point at (331.89, 382.16) @ 11:14:51.01 on A
+
+Gaze point at (411.74, 394.14) @ 11:14:51.15 on A
+
+Gaze point at (429.57, 397.26) @ 11:14:51.39 on A
+
+Gaze point at (252.24, 390.46) @ 11:14:51.62 on A
+
+Gaze point at (251.46, 386.41) @ 11:14:51.85 on A
+
+Gaze point at (225.94, 379.94) @ 11:14:52.02 on A
+
+Gaze point at (189.49, 388.20) @ 11:14:52.19 on A
+
+Gaze point at (328.46, 466.32) @ 11:14:52.35 on A
+
+Gaze point at (360.26, 489.48) @ 11:14:52.54 on A
+
+Gaze point at (354.85, 478.03) @ 11:14:52.73 on A
+
+Gaze point at (360.49, 494.76) @ 11:14:53.07 on A
+
+Gaze point at (403.03, 565.97) @ 11:14:53.22 on A
+
+Gaze point at (412.06, 559.67) @ 11:14:53.39 on A
+
+Gaze point at (427.00, 599.22) @ 11:14:53.56 on A
+
+Gaze point at (397.07, 593.52) @ 11:14:53.72 on A
+
+Gaze point at (401.37, 576.64) @ 11:14:53.88 on A
+
+Gaze point at (396.66, 578.49) @ 11:14:54.03 on A
+
+Gaze point at (397.17, 578.83) @ 11:14:54.20 on A
+
+Gaze point at (431.20, 596.30) @ 11:14:54.35 on A
+
+Gaze point at (393.96, 577.16) @ 11:14:54.52 on A
+
+Gaze point at (411.94, 572.50) @ 11:14:54.69 on A
+
+Gaze point at (473.59, 596.28) @ 11:14:54.85 on A
+
+Gaze point at (484.72, 595.10) @ 11:14:55.02 on A
+
+Gaze point at (485.38, 571.88) @ 11:14:55.19 on A
+
+Gaze point at (353.64, 431.04) @ 11:14:55.36 on A
+
+Gaze point at (376.49, 387.65) @ 11:14:55.52 on A
+
+Gaze point at (442.18, 256.36) @ 11:14:55.69 on A
+
+Gaze point at (410.74, 178.07) @ 11:14:55.85 on A
+
+Gaze point at (441.01, 154.11) @ 11:14:56.03 on A
+
+Gaze point at (472.68, 157.11) @ 11:14:56.18 on A
+
+Gaze point at (519.69, 139.24) @ 11:14:56.39 on A
+
+Gaze point at (480.16, 112.12) @ 11:14:56.56 on A
+
+Gaze point at (385.32, 85.37) @ 11:14:56.73 on A
+
+Gaze point at (376.28, 89.68) @ 11:14:56.89 on A
+
+Gaze point at (268.16, 78.80) @ 11:14:57.06 on A
+
+Gaze point at (254.89, 82.36) @ 11:14:57.21 on A
+
+Gaze point at (104.87, 74.91) @ 11:14:57.36 on A
+
+Gaze point at (86.26, 54.40) @ 11:14:57.53 on A
+
+Gaze point at (84.32, 48.81) @ 11:14:57.70 on A
+
+Gaze point at (63.81, 91.09) @ 11:14:57.86 on A
+
+Gaze point at (80.41, 182.28) @ 11:14:58.03 on A
+
+Gaze point at (88.99, 195.59) @ 11:14:58.19 on A
+
+Gaze point at (136.83, 208.33) @ 11:14:58.35 on A
+
+Gaze point at (146.15, 239.75) @ 11:14:58.51 on A
+
+Gaze point at (132.87, 230.81) @ 11:14:58.67 on A
+
+Gaze point at (123.31, 205.99) @ 11:14:58.84 on A
+
+Gaze point at (119.43, 193.75) @ 11:14:59.01 on A
+
+Gaze point at (112.62, 180.72) @ 11:14:59.17 on A
+
+Gaze point at (117.58, 182.15) @ 11:14:59.34 on A
+
+Gaze point at (114.43, 180.72) @ 11:14:59.51 on A
+
+Gaze point at (142.69, 192.45) @ 11:14:59.67 on A
+
+Gaze point at (136.49, 191.84) @ 11:14:59.84 on A
+
+Gaze point at (142.48, 206.39) @ 11:15:00.01 on A
+
+Gaze point at (145.48, 205.39) @ 11:15:00.17 on A
+
+Gaze point at (135.49, 197.45) @ 11:15:00.34 on A
+
+Gaze point at (118.31, 199.69) @ 11:15:00.49 on A
+
+Gaze point at (141.39, 207.90) @ 11:15:00.65 on A
+
+Gaze point at (163.34, 221.88) @ 11:15:00.81 on A
+
+Gaze point at (164.48, 218.60) @ 11:15:00.97 on A
+
+Gaze point at (165.87, 218.31) @ 11:15:01.14 on A
+
+Gaze point at (161.66, 209.24) @ 11:15:01.29 on A
+
+Gaze point at (129.61, 166.61) @ 11:15:01.47 on A
+
+Gaze point at (125.45, 190.92) @ 11:15:01.64 on A
+
+Gaze point at (136.45, 182.70) @ 11:15:01.81 on A
+
+Gaze point at (113.10, 141.90) @ 11:15:01.97 on A
+
+Gaze point at (105.20, 101.22) @ 11:15:02.14 on A
+
+Gaze point at (144.78, 112.75) @ 11:15:02.29 on A
+
+Gaze point at (148.50, 120.78) @ 11:15:02.45 on A
+
+Gaze point at (784.15, 227.27) @ 11:15:02.62 on A
+
+Gaze point at (798.82, 184.27) @ 11:15:02.76 on A
+
+Gaze point at (822.17, 262.94) @ 11:15:02.92 on A
+
+Gaze point at (813.09, 250.00) @ 11:15:03.08 on A
+
+Gaze point at (59.98, 168.51) @ 11:15:03.47 on A
+
+Gaze point at (123.51, 234.48) @ 11:15:03.63 on A
+
+Gaze point at (145.67, 221.56) @ 11:15:03.80 on A
+
+Gaze point at (139.51, 207.67) @ 11:15:03.97 on A
+
+Gaze point at (161.66, 171.72) @ 11:15:04.13 on A
+
+Gaze point at (138.94, 125.72) @ 11:15:04.30 on A
+
+Gaze point at (129.71, 115.42) @ 11:15:04.47 on A
+
+Gaze point at (141.65, 138.08) @ 11:15:04.62 on A
+
+Gaze point at (151.67, 139.86) @ 11:15:04.78 on A
+
+Gaze point at (158.66, 150.96) @ 11:15:04.93 on A
+
+Gaze point at (145.49, 124.44) @ 11:15:05.10 on A
+
+Gaze point at (132.39, 115.25) @ 11:15:05.27 on A
+
+Gaze point at (131.71, 130.34) @ 11:15:05.43 on A
+
+Gaze point at (131.57, 132.99) @ 11:15:05.60 on A
+
+Gaze point at (101.82, 154.47) @ 11:15:05.77 on A
+
+Gaze point at (105.57, 154.99) @ 11:15:05.93 on A
+
+Gaze point at (103.76, 144.88) @ 11:15:06.10 on A
+
+Gaze point at (138.69, 112.92) @ 11:15:06.27 on A
+
+Gaze point at (130.19, 103.11) @ 11:15:06.43 on A
+
+Gaze point at (124.93, 100.48) @ 11:15:06.60 on A
+
+Gaze point at (129.83, 98.91) @ 11:15:06.77 on A
+
+Gaze point at (241.46, 127.57) @ 11:15:06.93 on A
+
+Gaze point at (742.89, 296.84) @ 11:15:07.10 on A
+
+Gaze point at (256.78, 116.42) @ 11:15:07.28 on A
+
+Gaze point at (182.94, 90.22) @ 11:15:07.43 on A
+
+Gaze point at (164.93, 131.38) @ 11:15:07.60 on A
+
+Gaze point at (170.61, 145.30) @ 11:15:07.76 on A
+
+Gaze point at (147.17, 130.54) @ 11:15:07.92 on A
+
+Gaze point at (140.38, 126.40) @ 11:15:08.09 on A
+
+Gaze point at (136.40, 126.05) @ 11:15:08.26 on A
+
+Gaze point at (129.83, 108.34) @ 11:15:08.42 on A
+
+Gaze point at (125.42, 99.25) @ 11:15:08.59 on A
+
+Gaze point at (99.35, 97.62) @ 11:15:08.75 on A
+
+Gaze point at (77.33, 104.26) @ 11:15:08.92 on A
+
+Gaze point at (50.99, 70.86) @ 11:15:09.10 on A
+
+Gaze point at (122.19, 80.56) @ 11:15:09.42 on A
+
+Gaze point at (140.94, 104.72) @ 11:15:09.59 on A
+
+Gaze point at (91.76, 116.00) @ 11:15:09.75 on A
+
+Gaze point at (106.14, 126.52) @ 11:15:09.95 on A
+
+Gaze point at (152.43, 162.94) @ 11:15:10.12 on A
+
+Gaze point at (171.83, 175.03) @ 11:15:10.29 on A
+
+Gaze point at (175.67, 175.13) @ 11:15:10.45 on A
+
+Gaze point at (353.79, 185.19) @ 11:15:10.61 on A
+
+Gaze point at (327.84, 168.67) @ 11:15:10.78 on A
+
+Gaze point at (322.56, 163.93) @ 11:15:10.93 on A
+
+Gaze point at (501.42, 248.55) @ 11:15:11.10 on A
+
+Gaze point at (503.05, 255.40) @ 11:15:11.34 on A
+
+Gaze point at (512.29, 248.98) @ 11:15:11.50 on A
+
+Gaze point at (445.46, 293.47) @ 11:15:11.65 on A
+
+Gaze point at (419.17, 312.88) @ 11:15:11.82 on A
+
+Gaze point at (397.02, 312.32) @ 11:15:11.99 on A
+
+Gaze point at (25.98, 356.28) @ 11:15:12.15 on A
+
+Gaze point at (18.85, 328.39) @ 11:15:12.32 on A
+
+Gaze point at (35.74, 357.41) @ 11:15:12.47 on A
+
+Gaze point at (52.67, 393.03) @ 11:15:12.64 on A
+
+Gaze point at (78.60, 484.67) @ 11:15:12.80 on A
+
+Gaze point at (52.61, 471.26) @ 11:15:12.96 on A
+
+Gaze point at (55.57, 457.00) @ 11:15:13.13 on A
+
+Gaze point at (40.07, 366.57) @ 11:15:13.28 on A
+
+Gaze point at (45.99, 351.13) @ 11:15:13.45 on A
+
+Gaze point at (99.73, 539.78) @ 11:15:13.81 on A
+
+Gaze point at (104.81, 544.91) @ 11:15:13.96 on A
+
+Gaze point at (85.55, 464.82) @ 11:15:14.35 on A
+
+Gaze point at (96.53, 469.67) @ 11:15:14.61 on A
+
+Gaze point at (79.96, 471.21) @ 11:15:14.76 on A
+
+Gaze point at (665.54, 316.00) @ 11:15:14.95 on A
+
+Gaze point at (768.66, 267.14) @ 11:15:15.21 on A
+
+Gaze point at (769.49, 252.93) @ 11:15:15.38 on A
+
+Gaze point at (665.80, 411.87) @ 11:15:17.59 on A
+
+Gaze point at (498.89, 445.78) @ 11:15:18.03 on A
+
+Gaze point at (496.41, 442.03) @ 11:15:18.19 on A
+
+Gaze point at (514.50, 422.31) @ 11:15:18.34 on A
+
+Gaze point at (512.65, 422.86) @ 11:15:18.49 on A
+
+Gaze point at (511.83, 427.33) @ 11:15:18.63 on A
+
+Gaze point at (512.00, 426.78) @ 11:15:18.79 on A
+
+Gaze point at (508.68, 426.38) @ 11:15:18.96 on A
+
+Gaze point at (509.19, 430.44) @ 11:15:19.13 on A
+
+Gaze point at (487.79, 479.65) @ 11:15:19.29 on A
+
+Gaze point at (490.83, 578.94) @ 11:15:19.46 on A
+
+Gaze point at (485.68, 638.94) @ 11:15:19.63 on A
+
+Gaze point at (486.61, 633.22) @ 11:15:19.78 on A
+
+Gaze point at (358.98, 655.31) @ 11:15:20.28 on A
+
+Gaze point at (399.84, 623.77) @ 11:15:20.75 on A
+
+Gaze point at (419.36, 643.60) @ 11:15:21.05 on A
+
+Gaze point at (447.35, 622.86) @ 11:15:21.44 on A
+
+Gaze point at (433.42, 628.94) @ 11:15:21.60 on A
+
+Gaze point at (457.38, 646.17) @ 11:15:21.76 on A
+
+Gaze point at (460.84, 640.22) @ 11:15:21.92 on A
+
+Gaze point at (456.05, 643.62) @ 11:15:22.09 on A
+
+Gaze point at (457.78, 652.17) @ 11:15:22.24 on A
+
+Gaze point at (456.70, 655.55) @ 11:15:22.45 on A
+
+Gaze point at (459.29, 649.26) @ 11:15:22.62 on A
+
+Gaze point at (474.94, 663.81) @ 11:15:22.78 on A
+
+Gaze point at (481.58, 666.75) @ 11:15:22.94 on A
+
+Gaze point at (468.96, 658.32) @ 11:15:23.18 on A
+
+Gaze point at (475.09, 655.36) @ 11:15:23.33 on A
+
+Gaze point at (475.00, 668.96) @ 11:15:23.49 on A
+
+Gaze point at (475.47, 671.99) @ 11:15:23.64 on A
+
+Gaze point at (473.60, 678.73) @ 11:15:23.80 on A
+
+Gaze point at (850.00, 637.24) @ 11:15:24.00 on A
+
+Gaze point at (832.29, 623.24) @ 11:15:24.15 on A
+
+Gaze point at (795.88, 631.93) @ 11:15:24.31 on A
+
+Gaze point at (760.48, 641.11) @ 11:15:24.46 on A
+
+Gaze point at (462.43, 675.47) @ 11:15:24.63 on A
+
+Gaze point at (531.69, 677.72) @ 11:15:24.80 on A
+
+Gaze point at (544.44, 683.04) @ 11:15:24.96 on A
+
+Gaze point at (520.85, 710.81) @ 11:15:25.13 on A
+
+Gaze point at (570.71, 714.29) @ 11:15:25.30 on A
+
+Gaze point at (545.59, 704.30) @ 11:15:25.47 on A
+
+Gaze point at (547.77, 639.35) @ 11:15:25.63 on A
+
+Gaze point at (547.39, 607.13) @ 11:15:25.80 on A
+
+Gaze point at (537.65, 587.15) @ 11:15:25.96 on A
+
+Gaze point at (507.49, 560.69) @ 11:15:26.13 on A
+
+Gaze point at (586.74, 492.57) @ 11:15:26.30 on A
+
+Gaze point at (948.09, 443.35) @ 11:15:26.46 on A
+
+Gaze point at (914.17, 398.98) @ 11:15:26.63 on A
+
+Gaze point at (993.40, 387.37) @ 11:15:26.78 on A
+
+Gaze point at (-69.18, 290.56) @ 11:15:26.93 on A
+
+Gaze point at (211.43, 259.51) @ 11:15:27.12 on A
+
+Gaze point at (-118.33, 434.91) @ 11:15:27.40 on A
+
+Gaze point at (-132.16, 460.51) @ 11:15:27.56 on A
+
+Gaze point at (3.07, 529.02) @ 11:15:27.73 on A
+
+Gaze point at (210.54, 532.18) @ 11:15:27.90 on A
+
+Gaze point at (175.60, 528.45) @ 11:15:28.05 on A
+
+Gaze point at (267.09, 304.87) @ 11:15:28.22 on A
+
+Gaze point at (248.42, 235.28) @ 11:15:28.37 on A
+
+Gaze point at (308.36, 217.03) @ 11:15:28.54 on A
+
+Gaze point at (311.62, 106.81) @ 11:15:28.71 on A
+
+Gaze point at (242.38, 60.75) @ 11:15:28.87 on A
+
+Gaze point at (462.57, 272.08) @ 11:15:29.05 on A
+
+Gaze point at (880.19, 336.71) @ 11:15:29.22 on A
+
+Gaze point at (869.47, 234.21) @ 11:15:29.38 on A
+
+Gaze point at (847.68, 273.90) @ 11:15:29.55 on A
+
+Gaze point at (788.81, 358.42) @ 11:15:29.72 on A
+
+Gaze point at (800.39, 359.65) @ 11:15:29.88 on A
+
+Gaze point at (799.83, 358.67) @ 11:15:30.05 on A
+
+Gaze point at (326.25, 473.36) @ 11:15:30.21 on A
+
+Gaze point at (292.54, 670.29) @ 11:15:30.35 on A
+
+Gaze point at (282.30, 683.47) @ 11:15:30.51 on A
+
+Gaze point at (379.68, 664.68) @ 11:15:30.67 on A
+
+Gaze point at (321.62, 686.73) @ 11:15:30.83 on A
+
+Gaze point at (275.74, 687.25) @ 11:15:30.99 on A
+
+Gaze point at (238.23, 688.95) @ 11:15:31.16 on A
+
+Gaze point at (160.84, 669.91) @ 11:15:31.32 on A
+
+Gaze point at (89.98, 634.79) @ 11:15:31.48 on A
+
+Gaze point at (84.18, 633.34) @ 11:15:31.64 on A
+
+Gaze point at (390.95, 662.52) @ 11:15:31.82 on A
+
+Gaze point at (374.03, 665.87) @ 11:15:31.97 on A
+
+Gaze point at (409.15, 676.97) @ 11:15:32.14 on A
+
+Gaze point at (414.97, 674.10) @ 11:15:32.29 on A
+
+Gaze point at (716.73, 413.96) @ 11:15:32.46 on A
+
+Gaze point at (787.26, 374.64) @ 11:15:32.60 on A
+
+Gaze point at (814.45, 361.86) @ 11:15:32.77 on A
+
+Gaze point at (774.25, 348.97) @ 11:15:32.94 on A
+
+Gaze point at (239.16, 366.65) @ 11:15:33.08 on A
+
+Gaze point at (248.95, 391.62) @ 11:15:33.25 on A
+
+Gaze point at (426.28, 360.59) @ 11:15:33.40 on A
+
+Gaze point at (430.73, 353.69) @ 11:15:33.57 on A
+
+Gaze point at (496.53, 382.68) @ 11:15:33.74 on A
+
+Gaze point at (138.74, 305.47) @ 11:15:33.90 on A
+
+Gaze point at (99.94, 311.62) @ 11:15:34.09 on A
+
+Gaze point at (40.01, 243.55) @ 11:15:34.34 on A
+
+Gaze point at (415.49, 365.18) @ 11:15:34.87 on A
+
+Gaze point at (504.30, 354.08) @ 11:15:35.27 on A
+
+Gaze point at (481.73, 346.46) @ 11:15:35.44 on A
+
+Gaze point at (500.76, 348.44) @ 11:15:35.60 on A
+
+Gaze point at (465.23, 356.40) @ 11:15:35.77 on A
+
+Gaze point at (451.76, 343.24) @ 11:15:35.94 on A
+
+Gaze point at (456.26, 337.56) @ 11:15:36.10 on A
+
+Gaze point at (829.40, 411.71) @ 11:15:36.27 on A
+
+Gaze point at (802.30, 435.01) @ 11:15:36.44 on A
+
+Gaze point at (797.45, 359.86) @ 11:15:36.59 on A
+
+Gaze point at (732.15, 360.26) @ 11:15:36.75 on A
+
+Gaze point at (439.56, 361.13) @ 11:15:36.91 on A
+
+Gaze point at (482.61, 378.72) @ 11:15:37.08 on A
+
+Gaze point at (479.94, 395.28) @ 11:15:37.27 on A
+
+Gaze point at (488.28, 388.24) @ 11:15:37.43 on A
+
+Gaze point at (487.26, 376.94) @ 11:15:37.59 on A
+
+Gaze point at (541.09, 405.31) @ 11:15:37.75 on A
+
+Gaze point at (541.11, 403.62) @ 11:15:37.98 on A
+
+Gaze point at (487.04, 362.46) @ 11:15:38.13 on A
+
+Gaze point at (473.34, 343.00) @ 11:15:38.30 on A
+
+Gaze point at (471.23, 349.23) @ 11:15:38.47 on A
+
+Gaze point at (698.08, 379.34) @ 11:15:38.62 on A
+
+Gaze point at (792.47, 466.30) @ 11:15:38.79 on A
+
+Gaze point at (796.11, 454.01) @ 11:15:38.95 on A
+
+Gaze point at (828.40, 441.30) @ 11:15:39.11 on A
+
+Gaze point at (796.92, 433.76) @ 11:15:39.28 on A
+
+Gaze point at (533.44, 407.22) @ 11:15:39.43 on A
+
+Gaze point at (562.29, 364.03) @ 11:15:39.63 on A
+
+Gaze point at (826.45, 358.93) @ 11:15:39.79 on A
+
+Gaze point at (821.48, 365.49) @ 11:15:39.95 on A
+
+Gaze point at (806.70, 356.37) @ 11:15:40.11 on A
+
+Gaze point at (464.31, 377.29) @ 11:15:40.27 on A
+
+Gaze point at (436.80, 374.49) @ 11:15:40.43 on A
+
+Gaze point at (485.02, 336.11) @ 11:15:40.59 on A
+
+Gaze point at (461.31, 307.84) @ 11:15:40.79 on A
+
+Gaze point at (476.05, 330.23) @ 11:15:40.95 on A
+
+Gaze point at (409.63, 332.03) @ 11:15:41.11 on A
+
+Gaze point at (419.87, 360.83) @ 11:15:41.26 on A
+
+Gaze point at (330.58, 348.78) @ 11:15:41.43 on A
+
+Gaze point at (83.24, 381.75) @ 11:15:41.71 on A
+
+Gaze point at (55.47, 369.90) @ 11:15:41.88 on A
+
+Gaze point at (839.97, 391.30) @ 11:15:42.04 on A
+
+Gaze point at (823.45, 350.12) @ 11:15:42.20 on A
+
+Gaze point at (907.67, 355.48) @ 11:15:42.36 on A
+
+Gaze point at (914.16, 356.77) @ 11:15:42.53 on A
+
+Gaze point at (799.01, 486.73) @ 11:15:42.70 on A
+
+Gaze point at (795.89, 464.57) @ 11:15:42.86 on A
+
+Gaze point at (521.39, 193.20) @ 11:15:43.02 on A
+
+Gaze point at (449.16, 134.41) @ 11:15:43.18 on A
+
+Gaze point at (530.46, 123.84) @ 11:15:43.34 on A
+
+Gaze point at (439.86, 141.61) @ 11:15:43.51 on A
+
+Gaze point at (394.17, 131.38) @ 11:15:43.67 on A
+
+Gaze point at (367.58, 130.33) @ 11:15:43.84 on A
+
+Gaze point at (378.01, 154.25) @ 11:15:44.01 on A
+
+Gaze point at (380.87, 159.47) @ 11:15:44.17 on A
+
+Gaze point at (909.21, 522.43) @ 11:15:44.36 on A
+
+Gaze point at (830.34, 618.78) @ 11:15:44.53 on A
+
+Gaze point at (803.93, 586.53) @ 11:15:44.69 on A
+
+Gaze point at (383.27, 301.12) @ 11:15:44.86 on A
+
+Gaze point at (326.46, 231.54) @ 11:15:45.03 on A
+
+Gaze point at (395.45, 198.37) @ 11:15:45.23 on A
+
+Gaze point at (486.75, 199.73) @ 11:15:45.38 on A
+
+Gaze point at (464.86, 221.13) @ 11:15:45.75 on A
+
+Gaze point at (514.46, 344.34) @ 11:15:45.91 on A
+
+Gaze point at (505.56, 356.53) @ 11:15:46.08 on A
+
+Gaze point at (403.46, 388.43) @ 11:15:46.25 on A
+
+Gaze point at (380.11, 288.68) @ 11:15:46.41 on A
+
+Gaze point at (237.81, 161.29) @ 11:15:46.57 on A
+
+Gaze point at (620.26, 472.84) @ 11:15:46.74 on A
+
+Gaze point at (813.54, 615.39) @ 11:15:46.96 on A
+
+Gaze point at (817.99, 612.05) @ 11:15:47.11 on A
+
+Gaze point at (855.06, 593.12) @ 11:15:47.30 on A
+
+Gaze point at (837.97, 606.67) @ 11:15:47.56 on A
+
+Gaze point at (129.47, 112.79) @ 11:15:47.75 on A
+
+Gaze point at (72.16, 129.50) @ 11:15:47.97 on A
+
+Gaze point at (77.53, 150.69) @ 11:15:48.15 on A
+
+Gaze point at (69.69, 145.47) @ 11:15:48.31 on A
+
+Gaze point at (68.18, 131.69) @ 11:15:48.48 on A
+
+Gaze point at (104.70, 130.62) @ 11:15:48.64 on A
+
+Gaze point at (133.86, 197.56) @ 11:15:48.81 on A
+
+Gaze point at (149.49, 237.44) @ 11:15:48.97 on A
+
+Gaze point at (129.71, 210.14) @ 11:15:49.14 on A
+
+Gaze point at (67.96, 96.10) @ 11:15:49.30 on A
+
+Gaze point at (75.12, 84.34) @ 11:15:49.47 on A
+
+Gaze point at (81.51, 106.02) @ 11:15:49.63 on A
+
+Gaze point at (87.96, 114.85) @ 11:15:49.80 on A
+
+Gaze point at (96.91, 132.59) @ 11:15:49.96 on A
+
+Gaze point at (91.54, 130.77) @ 11:15:50.12 on A
+
+Gaze point at (89.92, 137.98) @ 11:15:50.29 on A
+
+Gaze point at (88.23, 142.22) @ 11:15:50.44 on A
+
+Gaze point at (101.45, 146.54) @ 11:15:50.61 on A
+
+Gaze point at (106.36, 153.39) @ 11:15:50.77 on A
+
+Gaze point at (104.40, 160.67) @ 11:15:50.93 on A
+
+Gaze point at (144.36, 161.65) @ 11:15:51.10 on A
+
+Gaze point at (911.92, 101.05) @ 11:15:51.27 on A
+
+Gaze point at (920.72, 110.17) @ 11:15:51.58 on A
+
+Gaze point at (229.14, 265.97) @ 11:15:51.73 on A
+
+Gaze point at (210.15, 239.94) @ 11:15:51.90 on A
+
+Gaze point at (247.84, 386.83) @ 11:15:52.07 on A
+
+Gaze point at (190.62, 385.36) @ 11:15:52.23 on A
+
+Gaze point at (139.60, 315.61) @ 11:15:52.40 on A
+
+Gaze point at (111.67, 346.68) @ 11:15:52.59 on A
+
+Gaze point at (110.04, 347.00) @ 11:15:52.76 on A
+
+Gaze point at (114.76, 348.94) @ 11:15:52.92 on A
+
+Gaze point at (121.48, 336.66) @ 11:15:53.07 on A
+
+Gaze point at (124.96, 320.92) @ 11:15:53.24 on A
+
+Gaze point at (119.96, 314.13) @ 11:15:53.41 on A
+
+Gaze point at (130.39, 331.92) @ 11:15:53.57 on A
+
+Gaze point at (915.82, -6.03) @ 11:15:53.77 on A
+
+Gaze point at (920.16, 69.92) @ 11:15:54.06 on A
+
+Gaze point at (902.19, 579.48) @ 11:15:54.22 on A
+
+Gaze point at (908.11, 563.95) @ 11:15:54.39 on A
+
+Gaze point at (942.92, 19.23) @ 11:15:54.54 on A
+
+Gaze point at (862.51, 11.28) @ 11:15:54.70 on A
+
+Gaze point at (695.81, 2.57) @ 11:15:54.87 on A
+
+Gaze point at (684.47, -30.71) @ 11:15:55.03 on A
+
+Gaze point at (943.36, 125.72) @ 11:15:55.19 on A
+
+Gaze point at (872.81, 522.69) @ 11:15:55.34 on A
+
+Gaze point at (793.55, 500.92) @ 11:15:55.51 on A
+
+Gaze point at (380.83, 348.47) @ 11:15:55.65 on A
+
+Gaze point at (503.55, 593.46) @ 11:15:55.83 on A
+
+Gaze point at (818.23, 543.94) @ 11:15:56.00 on A
+
+Gaze point at (997.46, 620.11) @ 11:15:56.30 on A
+
+Gaze point at (1233.95, 604.46) @ 11:15:56.46 on A
+
+Gaze point at (1204.57, 627.15) @ 11:15:56.62 on A
+
+Gaze point at (1000.43, 475.21) @ 11:15:56.79 on A
+
+Gaze point at (939.01, 441.40) @ 11:15:56.96 on A
+
+Gaze point at (1266.33, 641.61) @ 11:15:57.11 on A
+
+Gaze point at (1184.70, 684.54) @ 11:15:57.27 on A
+
+Gaze point at (803.95, 571.01) @ 11:15:57.43 on A
+
+Gaze point at (724.28, 567.32) @ 11:15:57.59 on A
+
+Gaze point at (800.59, 462.56) @ 11:15:57.76 on A
+
+Gaze point at (839.33, 286.08) @ 11:15:57.92 on A
+
+Gaze point at (848.35, 228.41) @ 11:15:58.09 on A
+
+Gaze point at (909.20, 150.50) @ 11:15:58.26 on A
+
+Gaze point at (817.43, 185.78) @ 11:15:58.42 on A
+
+Gaze point at (799.56, 182.97) @ 11:15:58.58 on A
+
+Gaze point at (886.61, 174.52) @ 11:15:58.74 on A
+
+Gaze point at (887.93, 160.62) @ 11:15:58.91 on A
+
+Gaze point at (481.32, 173.91) @ 11:15:59.07 on A
+
+Gaze point at (445.54, 217.98) @ 11:15:59.23 on A
+
+Gaze point at (339.14, 337.10) @ 11:15:59.40 on A
+
+Gaze point at (254.27, 389.16) @ 11:15:59.56 on A
+
+Gaze point at (509.99, 401.00) @ 11:15:59.72 on A
+
+Gaze point at (525.92, 398.09) @ 11:15:59.88 on A
+
+Gaze point at (523.52, 397.26) @ 11:16:00.04 on A
+
+Gaze point at (498.40, 579.38) @ 11:16:00.21 on A
+
+Gaze point at (740.98, 225.58) @ 11:16:01.09 on A
+
+Gaze point at (743.36, 182.79) @ 11:16:01.25 on A
+
+Gaze point at (840.17, 215.32) @ 11:16:01.41 on A
+
+Gaze point at (844.70, 166.76) @ 11:16:01.58 on A
+
+Gaze point at (817.58, 143.01) @ 11:16:01.74 on A
+
+Gaze point at (822.13, 192.37) @ 11:16:01.91 on A
+
+Gaze point at (814.30, 208.49) @ 11:16:02.07 on A
+
+Gaze point at (812.32, 269.65) @ 11:16:02.24 on A
+
+Gaze point at (136.97, 1524.88) @ 11:16:02.52 on A
+
+Gaze point at (-65.34, 1445.33) @ 11:16:03.02 on A
+
+Gaze point at (470.87, 296.95) @ 11:16:03.51 on A
+
+Gaze point at (499.40, 253.76) @ 11:16:03.68 on A
+
+Gaze point at (442.57, 725.88) @ 11:16:08.03 on A
+
+Gaze point at (325.92, 444.64) @ 11:16:08.19 on A
+
+Gaze point at (422.20, 227.44) @ 11:16:08.36 on A
+
+Gaze point at (419.08, 207.70) @ 11:16:08.52 on A
+
+Gaze point at (382.67, 138.16) @ 11:16:08.68 on A
+
+Gaze point at (205.55, 232.07) @ 11:16:11.71 on A
+
+Gaze point at (429.55, 211.41) @ 11:16:11.88 on A
+

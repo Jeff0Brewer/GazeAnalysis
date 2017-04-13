@@ -5,8 +5,19 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GazeAnalysis"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525" WindowState="Maximized">
+        Title="MainWindow" Height="350" Width="1000" WindowState="Maximized">
     <Canvas Name="myCanvas">
-        
+        <Button Name="btn" Canvas.Right="125" Canvas.Bottom="0" Width="25" Height="25" Content="1" PreviewMouseDown="imgChange"></Button>
+        <Button Canvas.Right="100" Canvas.Bottom="0" Width="25" Height="25" Content="2" PreviewMouseDown="imgChange"></Button>
+        <Button Canvas.Right="75" Canvas.Bottom="0" Width="25" Height="25" Content="3" PreviewMouseDown="imgChange"></Button>
+        <Button Canvas.Right="50" Canvas.Bottom="0" Width="25" Height="25" Content="4" PreviewMouseDown="imgChange"></Button>
+        <Button Canvas.Right="25" Canvas.Bottom="0" Width="25" Height="25" Content="5" PreviewMouseDown="imgChange"></Button>
+        <Button Canvas.Right="0" Canvas.Bottom="0" Width="25" Height="25" Content="6" PreviewMouseDown="imgChange"></Button>
+        <Button Canvas.Right="75" Canvas.Bottom="25" Width="75" Height="25" Content="11" PreviewMouseDown="imgChange"></Button>
+        <Button Canvas.Right="0" Canvas.Bottom="25" Width="75" Height="25" Content="12" PreviewMouseDown="imgChange"></Button>
+        <TextBox Name="Atxt" Canvas.Right="200" Foreground="Blue" Text=""></TextBox>
+        <TextBox Name="Btxt" Canvas.Right="0" Canvas.Top="0" Foreground="Red" Text=""></TextBox>
+        <Rectangle Name="Acurr" Panel.ZIndex="800" Canvas.Left="0" Canvas.Top="0" Visibility="Hidden" Width="25" Height="25" Fill="Blue" StrokeThickness="3" Stroke="Black"></Rectangle>
+        <Rectangle Name="Bcurr" Panel.ZIndex="800" Canvas.Top="0" Canvas.Left="0" Visibility="Hidden" Width="25" Height="25" Fill="Red" StrokeThickness="3" Stroke="Black"></Rectangle>
     </Canvas>
 </Window>
